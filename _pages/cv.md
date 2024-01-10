@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Download complete CV here.
+------
 
 Education
 ======

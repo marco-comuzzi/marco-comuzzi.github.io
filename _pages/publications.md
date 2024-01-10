@@ -15,8 +15,8 @@ Book
 
 Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Practice/dp/103234248X),
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
-[Kyobo](https://product.kyobobook.co.kr/detail/S000202994983) 
----
+[Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
+------
 
 Articles Published from 2020
 ======
@@ -76,7 +76,7 @@ J. Ko and **M. Comuzzi** (2020) "Detecting anomalies in business process event l
 B. Tama, **M. Comuzzi** and J. Ko (2020) "An empirical investigation of different classifiers, encoding and ensemble schemes for next event prediction using business process event logs", ACM Transactions on Intelligent Systems and Technology, 11(6):68.
 
 M. Vargas and **M. Comuzzi** (2020) "A multi-dimensional model of Enterprise Resource Planning Critical Success Factors", Enterprise Information Systems, 14(1), 38-57.
----
+------
 
 Articles Published before 2020
 ======
