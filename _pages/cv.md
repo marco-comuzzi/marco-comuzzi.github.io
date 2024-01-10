@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Download complete CV here.
 
 Education
@@ -19,10 +17,10 @@ Education
 Work experience
 ======
 * Associate Professor, September 2017 – onwards
-  * Department of Industrial Engineering *, Ulsan National Institute of Science and Technology(UNIST), Republic of Korea.
+  - Department of Industrial Engineering *, Ulsan National Institute of Science and Technology(UNIST), Republic of Korea.
 
 * Assistant Professor, February 2016 – August 2017
-  * Department of Industrial Engineering, Ulsan National Institute of Science and Technology (UNIST), Republic of Korea.
+  - Department of Industrial Engineering, Ulsan National Institute of Science and Technology (UNIST), Republic of Korea.
 
 * Assistant Professor, May 2013 – January 2016
   * Department of Computing – City, University of London, London, United Kingdom
