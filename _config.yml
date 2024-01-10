@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco Comuzzi"
-  avatar           : (files/marco-new.JPG)
+  avatar           : [(files/marco-new.JPG)]
   bio              : "I am Associate Professor and Director of the Blockchain Research Center at the Department of Industrial Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea. Inthe past, I have held academic full-time positions at the Eindhoven University of Technology, The Netherlands, and City, University of London, United Kingdom. to undergraduate and graduate students since 2018. I have published more than 70 academic papers in peer-reviewed academic outlets on various topics, such as Web services, business process management, process mining, and blockchain systems."
   location         : #"https://www.google.com/maps/place/제5공학관/data=!4m14!1m7!3m6!1s0x35662fd1610bf9e5:0x6fba45de1824ac69!2sUNIST+%7C+Ulsan+National+Institute+of+Science+%26+Technology!8m2!3d35.5734176!4d129.189629!16s%2Fm%2F0glrn4y!3m5!1s0x35662fd1cdd3fc1b:0x83e4103bbbe213ee!8m2!3d35.5715419!4d129.187586!16s%2Fg%2F11c1_vstms?entry=ttu"
   employer         :
