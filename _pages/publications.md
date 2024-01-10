@@ -5,17 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#book">book</a></li>
-            <li><a href="#recent">recent [after 2020]</a></li>
-            <li><a href="#older">before 2020</a></li>
-        </ul>
-    </div>
-</div>
 
-### <a name="book"></a>--- book
+Book
+======
 
 **Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York
 
@@ -25,7 +17,8 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 [Online companion website](https://sites.google.com/view/blockchainforbusiness/home)
 
-### <a name="recent"></a>---- articles published from 2020
+Articles Published from 2020
+======
 
 #### 2024
 
@@ -65,10 +58,27 @@ G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) "Supporting Impact Analysi
 
 #### 2021
 
-TBC
+J. Kim and **M. Comuzzi** (2021) "Stability metrics for enhancing the evaluation of outcome-based business process predictive monitoring," IEEE Access, 9: 133461-133471.
+
+**M. Comuzzi**, C. Cappiello, P. Plebani, and M. Fim (2021) "Assessing and Improving Measurability of Process Performance Indicators based on Quality of Logs ", Information Systems, 103: 101874.
+
+J. Kim and **M. Comuzzi** (2021) "A diagnostic framework for imbalanced classification in business process predictive monitoring" Expert Systems with Applications, 184, 115536. [SCIE L1, L2, L1] {2,1,6}.
+
+Daniel Beverungen, Joos C. A. M. Buijs, Jörg Becker, Claudio Di Ciccio*, Wil M. P. van der Aalst, Christian Bartelheimer, Jan vom Brocke, **M. Comuzzi**, Karsten Kraume, Henrik Leopold, Martin Matzner, Jan Mendling, Nadine Ogonek, Till Post, Manuel Resinas, Kate Revoredo, Adela del-Río-Ortega, Marcello La Rosa, Flávia Maria Santoro, Andreas Solti, Minseok Song, Armin Stein, Matthias Stierle, Verena Wolf: (2021) "Seven Paradoxes of Business Process Management in a Hyper-Connected World", Business & Information Systems Engineering, 63(2), pp. 145-156 [SCIE L2, L1, L4] {25,33,67}.
 
 #### 2020
 
-TBC
+J. Ko and **M. Comuzzi** (2020) "Detecting anomalies in business process event logs using statistical leverage", Information Sciences, 549, 53-67.
 
-### <a name="older"></a>--- articles published before 2020
+**M. Comuzzi**, C. Cappiello and G. Meroni (2020) "On the Need for Data Quality Assessment in Blockchains", IEEE Internet Computing, 25(3): 71-78.
+
+B. Tama, **M. Comuzzi** and J. Ko (2020) "An empirical investigation of different classifiers, encoding and ensemble schemes for next event prediction using business process event logs", ACM Transactions on Intelligent Systems and Technology, 11(6):68.
+
+M. Vargas and **M. Comuzzi** (2020) "A multi-dimensional model of Enterprise Resource Planning Critical Success Factors", Enterprise Information Systems, 14(1), 38-57.
+
+
+
+Articles Published before 2020
+======
+
+TBC TBC
