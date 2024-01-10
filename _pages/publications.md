@@ -11,11 +11,11 @@ Book
 
 **Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York
 
+[Online companion website](https://sites.google.com/view/blockchainforbusiness/home)
+
 Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Practice/dp/103234248X),
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
-[Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
-
-[Online companion website](https://sites.google.com/view/blockchainforbusiness/home)
+[Kyobo](https://product.kyobobook.co.kr/detail/S000202994983) 
 ---
 
 Articles Published from 2020

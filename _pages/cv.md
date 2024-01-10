@@ -23,16 +23,16 @@ Work experience
   - Department of Industrial Engineering, Ulsan National Institute of Science and Technology (UNIST), Republic of Korea.
 
 * Assistant Professor, May 2013 – January 2016
-  * Department of Computing – City, University of London, London, United Kingdom
+  - Department of Computing – City, University of London, London, United Kingdom
 
 * Assistant Professor, July 2009 – April 2013
- * School of Industrial Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands
+ - School of Industrial Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands
 
 * Postdoctoral Researcher, July 2008 – June 2009
- * School of Informatics – City, University of London, London, United Kingdom
+ - School of Informatics – City, University of London, London, United Kingdom
 
 * Research Associate, July 2006 – June 2008
- * Department of Electronics and Information, Politecnico di Milano, Milan, Italy
+ - Department of Electronics and Information, Politecnico di Milano, Milan, Italy
 
   
 Research Visits and Exchange
@@ -59,28 +59,28 @@ Professional Activities and Service (selected)
 ======
 
 * Member of the Program Committee of academic conferences (selected):
- * International Conference on Business Process Management (since 2022)
- * International Conference on Process Mining (since 2021)
- * International Conference on Service-Oriented Computing (since 2021)
- * International Conference on Cooperative Information Systems (since 2020)
+ - International Conference on Business Process Management (since 2022)
+ - International Conference on Process Mining (since 2021)
+ - International Conference on Service-Oriented Computing (since 2021)
+ - International Conference on Cooperative Information Systems (since 2020)
 
 * Reviewer for international journals (selected):
- * Computers in Industry
- * IEEE Transactions on Services Computing
- * Expert Systems with Applications
- * Information Sciences
- * Information Systems
- * Decision Support Systems
- * Business & Information Systems Engineering
+ - Computers in Industry
+ - IEEE Transactions on Services Computing
+ - Expert Systems with Applications
+ - Information Sciences
+ - Information Systems
+ - Decision Support Systems
+ - Business & Information Systems Engineering
 
 * Editorial roles in international conferences:
- * Publicity co-chair, Int. Conf. on Business Process Management (BPM) 2024, Krakow, Poland.
- * Co-chair of the Demo Track, Int. Conf. on Process Mining (ICPM) 2022, Bolzano, Italy.
- * Publicity co-chair, Int. Conf. On Advanced Information Systems Engineering (CAiSE) 2022, Leuven, Belgium.
- * Co-chair of the Demo Track, 2020 Int. Conf. on Business Process Management (BPM) 2020, Sevilla, Spain.
- * Co-chair of the 1st Workshop of Quality Data for Process Analytics (QD-PA), 2017 International Conference on Business Process Management (BPM), 2017, Barcelona, Spain.
- * Co-chair of the 1st Workshop on Data Mining in Business Process Management (DM-BPM), 2017 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2017, Jeju, Korea.
- * Member of the Local Arrangements Committee, 8th IFIP WG5.1 Int. Conf. on Product Lifecycle Management (PLM) 2011, Eindhoven, The Netherlands
+ - Publicity co-chair, Int. Conf. on Business Process Management (BPM) 2024, Krakow, Poland.
+ - Co-chair of the Demo Track, Int. Conf. on Process Mining (ICPM) 2022, Bolzano, Italy.
+ - Publicity co-chair, Int. Conf. On Advanced Information Systems Engineering (CAiSE) 2022, Leuven, Belgium.
+ - Co-chair of the Demo Track, 2020 Int. Conf. on Business Process Management (BPM) 2020, Sevilla, Spain.
+ - Co-chair of the 1st Workshop of Quality Data for Process Analytics (QD-PA), 2017 International Conference on Business Process Management (BPM), 2017, Barcelona, Spain.
+ - Co-chair of the 1st Workshop on Data Mining in Business Process Management (DM-BPM), 2017 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2017, Jeju, Korea.
+ - Member of the Local Arrangements Committee, 8th IFIP WG5.1 Int. Conf. on Product Lifecycle Management (PLM) 2011, Eindhoven, The Netherlands
 
   
 
