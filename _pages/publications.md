@@ -57,8 +57,6 @@ Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process p
 
 G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) "Supporting Impact Analysis of Process-Aware Information System Updates Using Digital Twins of Organizations" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 158-176.
 
-
-
 #### 2021
 
 J. Kim and **M. Comuzzi** (2021) "Stability metrics for enhancing the evaluation of outcome-based business process predictive monitoring," IEEE Access, 9: 133461-133471.
@@ -86,9 +84,6 @@ M. Vargas and **M. Comuzzi** (2020) "A multi-dimensional model of Enterprise Res
 J. Ko and **M. Comuzzi** (2020) "Online anomaly detection using statistical leverage for streaming business process events", 1st Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2020 
 
 J. Ko, J. Lee, and **M. Comuzzi** (2020) "AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs", 2nd Int. Conf. on Process Mining (ICPM) - Demonstration Track
-
-
-------
 
 Older articles
 ======
@@ -145,6 +140,7 @@ D. Ardagna, M. Comuzzi, E. Mussi, B. Pernici, and P. Plebani (2007) "PAWS: A fra
 
 
 **Peer-reviewed conferences and workshops**
+
 M. Comuzzi, J. Ko and S. Lee (2019) "Predicting outpatient process flows to minimise the cost of handling returning patients: A case study", Workshop on Process-Oriented Data Science for Healthcare (PODS4H 2019) held in conjunction with BPM 2019 (accepted)
 
 C. Cappiello, M. Comuzzi, F. Daniel and G. Meroni (2019) "Data quality control in blockchain applications", Blockchain Forum 2019 held in conjunction with BPM 2019 (accepted)

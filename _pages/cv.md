@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download complete CV here.
+Download complete CV [here](files/MarcoComuzzi-CV.pdf).
 ------
 
 Education
