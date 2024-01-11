@@ -18,7 +18,7 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 [Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
 ------
 
-Articles Published from 2020
+More recent articles (until 2020)
 ======
 
 #### 2024
@@ -78,7 +78,7 @@ B. Tama, **M. Comuzzi** and J. Ko (2020) "An empirical investigation of differen
 M. Vargas and **M. Comuzzi** (2020) "A multi-dimensional model of Enterprise Resource Planning Critical Success Factors", Enterprise Information Systems, 14(1), 38-57.
 ------
 
-Articles Published before 2020
+Older articles
 ======
 
 TBC TBC
