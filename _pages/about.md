@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Marco Comuzzi, I was born in the beautiful city of Como in Italy in 1979. I studied Computer Science Engineering at Politecnico di Milano, where I also got my PhD. 
+My name is Marco Comuzzi, I was born in the beautiful city of Como in Italy in 1979. I studied Computer Science Engineering at Politecnico di Milano, where I also got my PhD in 2007. 
 
 I am currently Associate Professor and Director of the Blockchain Research Center at the Department of Industrial Engineering, Ulsan National Institute of Science and Technology, in Ulsan (South Korea). I also have held academic full-time positions at the Eindhoven University of Technology, The Netherlands, and City, University of London, United Kingdom. 
 
-My research is in the broad area of information systems design and data science, with a specific focus on process mining and blockchcain technology.
+My research is in the broad area of information systems design and data science, with a specific focus on process mining and blockchcain technology. 
 
 This website is normally up to date, but I also maintain (not very accurately, I must admit) a [website](https://iel.unist.ac.kr) for the Process-Aware Artificial Intelligence Lab, my research Lab at UNIST.
 
