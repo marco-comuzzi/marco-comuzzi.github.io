@@ -16,9 +16,8 @@ Book
 Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Practice/dp/103234248X),
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
 [Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
-------
 
-More recent articles (until 2020)
+More recent articles (from 2020)
 ======
 
 #### 2024
