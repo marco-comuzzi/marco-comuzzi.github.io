@@ -9,13 +9,13 @@ redirect_from:
 
 Download complete CV [here](/files/MarcoComuzzi-CV.pdf).
 
-Education
-======
+### Education
+
 * Italian "Laurea" (5-year combined BSc + MSc degree), Politecnico di Milano (Italy), 2003
 * Ph.D in Information Technology, Politecnico di Milano (Italy), 2007
 
-Work experience
-======
+### Work experience
+
 * Associate Professor, September 2017 – onwards
   - Department of Industrial Engineering *, Ulsan National Institute of Science and Technology(UNIST), Republic of Korea.
 
@@ -35,8 +35,8 @@ Work experience
   - Department of Electronics and Information, Politecnico di Milano, Milan, Italy
 
   
-Research Visits and Exchange
-======
+### Research Visits and Exchange
+
 
 * School of Information Systems, Queensland University of Technology, Brisbane, Australia, December 2022 – January 2023
 
@@ -55,8 +55,8 @@ Research Visits and Exchange
 * McCombs School of Business, The University of Texas at Austin, Austin (TX), USA, August 2005 – February 2006.
 
 
-Professional Activities and Service (selected)
-======
+### Professional Activities and Service (selected)
+
 
 * Member of the Program Committee of academic conferences (selected):
   - International Conference on Business Process Management (since 2022)

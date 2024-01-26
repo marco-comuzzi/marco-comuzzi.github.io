@@ -6,19 +6,15 @@ author_profile: true
 ---
 
 
-Book
-======
+### Book
 
-**Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York
-
-[Online companion website](https://sites.google.com/view/blockchainforbusiness/home)
-
+**Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York<br>
+[Online companion website](https://sites.google.com/view/blockchainforbusiness/home)<br>
 Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Practice/dp/103234248X),
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
 [Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
 
-More recent articles (from 2020)
-======
+### More recent articles (from 2020)
 
 #### 2024
 
@@ -84,8 +80,7 @@ J. Ko and **M. Comuzzi** (2020) "Online anomaly detection using statistical leve
 
 J. Ko, J. Lee, and **M. Comuzzi** (2020) "AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs", 2nd Int. Conf. on Process Mining (ICPM) - Demonstration Track
 
-Older articles
-======
+### Older articles
 
 **Journal publications**
 
