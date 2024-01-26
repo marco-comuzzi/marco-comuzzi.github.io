@@ -8,9 +8,9 @@ author_profile: true
 
 !! Work in progress !!
 
-**Blockchain for business: understanding blockchain and how it creates business value.**
-Marco Comuzzi and Paul Grefen
-Tutorial at [EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/tutorials)
+**Blockchain for business: understanding blockchain and how it creates business value.**<br>
+Marco Comuzzi and Paul Grefen<br>
+Tutorial at [EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/tutorials)<br>
 [Slides](TBC)
 
 **What is blockchain and how can it help my business?**
