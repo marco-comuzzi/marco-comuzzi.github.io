@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Download complete CV [here](/files/MarcoComuzzi-CV.pdf).
-------
 
 Education
 ======
