@@ -10,7 +10,7 @@ author_profile: true
 
 **Blockchain for business: understanding blockchain and how it creates business value.**<br>
 Marco Comuzzi and Paul Grefen<br>
-Tutorial at [EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/tutorials) [Slides](/files/files/edoc23.pdf)
+Tutorial at [EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/tutorials) [Slides](/files/talks/edoc23.pdf)
 
 **What is blockchain and how can it help my business?**<br>
 Marco Comuzzi, Giovanni Meroni, and Paul Grefen<br>
@@ -21,7 +21,7 @@ Global Youth Academy 2020 (online) and 2022, Beomeo Library, Daegu, Korea
 
 **Data quality control in blockchain applications**<br>
 December 2019<br>
-CSIRO Data61, Sydney, Australia [Slides]/files/files/data61.pdf)
+CSIRO Data61, Sydney, Australia [Slides](/files/talks/data61.pdf)
 
 **Blockchain for inter-organisational information systems principles, applications, and research questions**<br>
 October 2018<br>
