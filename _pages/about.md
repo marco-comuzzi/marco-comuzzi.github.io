@@ -18,5 +18,6 @@ This website is normally up to date, but I also maintain (not very accurately, I
 
 ### News
 
+* I am serving as PC Chair of [CoopIS 2024](https://coopis.scitevents.org)
 * I am giving a tutorial at ICSOC 2023 on my blockchain book
 * I am giving a [tutorial](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/tutorials) at EDOC 2023 on my blockchain book
