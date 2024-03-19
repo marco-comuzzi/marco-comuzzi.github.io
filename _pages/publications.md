@@ -18,6 +18,8 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 #### 2024
 
+O. Yessenbayev, D.C. Duy Nguyen, T. Jeong, K.J. Kang c, H.R. Kim, J. Ko b, J.-Y. Par, M.-S. Roh, **M. Comuzzi** (2024) Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation. Journal of Industrial Information Integration (in press)
+
 Hijriani, A. and **Comuzzi, M.** (2024). Towards a Maturity Model of Process Mining as an Analytic Capability. Proc. HICSS 57. [pdf](https://scholarspace.manoa.hawaii.edu/bitstreams/603f1d8b-a1ae-4213-8907-bc6319324351/download)
 
 #### 2023
