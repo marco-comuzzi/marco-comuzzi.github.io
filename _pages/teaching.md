@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### IE303 Data Mining ###
 
+This course introduces the basics of data mining (a.k.a. machine learning, statistical learning) including linear regression, classification (logistic regeression, KNN, LDA), tree-based models, support vector machines, deep learning (basics), clustering.
 
 ### IE421 Blockchain Systems
 

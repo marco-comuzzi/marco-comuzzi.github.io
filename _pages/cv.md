@@ -59,10 +59,10 @@ Download complete CV [here](/files/MarcoComuzzi-CV.pdf).
 
 
 * Member of the Program Committee of academic conferences (selected):
-  - International Conference on Business Process Management (since 2022)
-  - International Conference on Process Mining (since 2021)
-  - International Conference on Service-Oriented Computing (since 2021)
-  - International Conference on Cooperative Information Systems (since 2020)
+  - BPM: International Conference on Business Process Management (since 2022)
+  - ICPM: International Conference on Process Mining (since 2021)
+  - ICSOC: International Conference on Service-Oriented Computing (since 2021)
+  - CoopIS: International Conference on Cooperative Information Systems (since 2020)
 
 * Reviewer for international journals (selected):
   - Computers in Industry
@@ -74,6 +74,7 @@ Download complete CV [here](/files/MarcoComuzzi-CV.pdf).
   - Business & Information Systems Engineering
 
 * Editorial roles in international conferences:
+  - Programme Committee Co-Chair of the 2024 International Conference on Cooperative Information Systems (CoopIS), Porto, Portugal.
   - Publicity co-chair, Int. Conf. on Business Process Management (BPM) 2024, Krakow, Poland.
   - Co-chair of the Demo Track, Int. Conf. on Process Mining (ICPM) 2022, Bolzano, Italy.
   - Publicity co-chair, Int. Conf. On Advanced Information Systems Engineering (CAiSE) 2022, Leuven, Belgium.
