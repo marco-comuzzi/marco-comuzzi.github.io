@@ -5,8 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-
-!! Work in progress !!
+**Event Log Data Quality in Process Mining: Modelling, Assessing, Improving**<br>
+July 2024
+DISI University of Trento, Italy [Slides](/files/talks/trento2024.pdf)
 
 **Blockchain for business: understanding blockchain and how it creates business value.**<br>
 Marco Comuzzi and Paul Grefen<br>
@@ -14,7 +15,7 @@ Tutorial at [EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/wor
 
 **What is blockchain and how can it help my business?**<br>
 Marco Comuzzi, Giovanni Meroni, and Paul Grefen<br>
-Tutorial at [ICSOC 2023](https://icsoc2023.diag.uniroma1.it/tutorials/) [Slides](TBC)
+Tutorial at [ICSOC 2023](https://icsoc2023.diag.uniroma1.it/tutorials/)
 
 **Blockchain and Cryptocurrency: An Introduction**<br>
 Global Youth Academy 2020 (online) and 2022, Beomeo Library, Daegu, Korea
