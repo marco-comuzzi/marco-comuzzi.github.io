@@ -18,6 +18,8 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 #### 2024
 
+P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) "Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions", Process Science (accepted) [pdf](url)
+
 A. Hijriani and **M. Comuzzi** (2024) "Business Value of Process Mining: A Contingency Perspective" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm) accepted
 
 I. Mavroudopoulos, K. Varvoutas, G. Kougka, A. Gounaris and **M. Comuzzi** (2024) "Exploiting general purpose big-data frameworks in process mining: the case of declarative process discovery." 22nd Int. Conf. on Business Process Management (BPM) accepted.
