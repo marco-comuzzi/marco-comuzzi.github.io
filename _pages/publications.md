@@ -18,21 +18,29 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 #### 2024
 
+W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science (accepted)
+
+**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici "On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring" ML4PM Workshop at ICPM 2024 (accepted) [pdf](url)
+
+W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science (accepted) [pdf] (url)
+
 P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) "Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions", Process Science (accepted) [pdf](url)
 
 A. Hijriani and **M. Comuzzi** (2024) "Business Value of Process Mining: A Contingency Perspective" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm) accepted
 
 I. Mavroudopoulos, K. Varvoutas, G. Kougka, A. Gounaris and **M. Comuzzi** (2024) "Exploiting general purpose big-data frameworks in process mining: the case of declarative process discovery." 22nd Int. Conf. on Business Process Management (BPM) accepted.
 
-O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang c, H.R. Kim, J. Ko b, J.-Y. Par, M.-S. Roh, **M. Comuzzi** (2024) "Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation." Journal of Industrial Information Integration (in press)
+O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang c, H.R. Kim, J. Ko b, J.-Y. Par, M.-S. Roh, **M. Comuzzi** (2024) "Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation." Journal of Industrial Information Integration, 39:100596.
 
-Hijriani, A. and **Comuzzi, M.** (2024). Towards a Maturity Model of Process Mining as an Analytic Capability. Proc. HICSS 57. [pdf](https://scholarspace.manoa.hawaii.edu/bitstreams/603f1d8b-a1ae-4213-8907-bc6319324351/download)
+Hijriani, A. and **Comuzzi, M.** (2024). Towards a Maturity Model of Process Mining as an Analytic Capability. Proc. HICSS 57, pp. 6002-6011 [pdf](https://scholarspace.manoa.hawaii.edu/bitstreams/603f1d8b-a1ae-4213-8907-bc6319324351/download)
 
 #### 2023
 
 Hofstede AH, Koschmider A, Marrella A, Andrews R, Fischer DA, Sadeghianasl S, Wynn MT, **Comuzzi M**, De Weerdt J, Goel K, Martin N. (2023) Process-Data Quality: The True Frontier of Process Mining. ACM Journal of Data and Information Quality, 15(3), p. 1-21. [pdf](https://dl.acm.org/doi/pdf/10.1145/3613247)
 
 Grefen, P.; Vanderfeesten, I.; Wilbik, A.; **Comuzzi, M.**; Ludwig, H.; Serral, E.; Kuitems, F.; Blanken, M.; Pietrasik, M. (2023) "Towards Customer Outcome Management in Smart Manufacturing." Machines, 11, 636. [pdf](https://www.mdpi.com/2075-1702/11/6/636)
+
+Kim, S., **Comuzzi, M.**, & Di Francescomarino, C. (2023, October). Understanding the Impact of Design Choices on the Performance of Predictive Process Monitoring. In ICPM Workshops (pp. 153-164). Cham: Springer Nature Switzerland.
 
 K. Schaerer and **M. Comuzzi** (2023) "The Quantum Threat to Blockchain: Summary and Timeline Analysis", Quantum Machine Intelligence, 5(1), 1-12. 
 
@@ -56,7 +64,7 @@ B. Tama and **M. Comuzzi** (2022) "Leveraging a Heterogeneous Ensemble Learning 
 
 S. Lee, **M. Comuzzi**, N. Kwon (2022) "Exploring the suitability of rule-based classification to provide interpretability in outcome-based process predictive monitoring" Algorithms - Special issue on Algorithms for Machine Learning and Pattern Recognition Tasks, 15(6):187.
 
-Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process predictive monitoring. In International Conference on Process Mining (pp. 242-254). Cham: Springer Nature Switzerland.
+Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process predictive monitoring. In ICPM Workshops (pp. 242-254). Cham: Springer Nature Switzerland.
 
 G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) "Supporting Impact Analysis of Process-Aware Information System Updates Using Digital Twins of Organizations" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 158-176.
 
