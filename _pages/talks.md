@@ -8,7 +8,7 @@ author_profile: true
 **PPM, Quo Vadis? Challenges and Future Directions of the Predictive Process Monitoring Research Field**
 September 2024
 Invited Keynote, 8th Int. Workshop on Artificial Intelligence for Business Process Management (AI4BPM), at BPM 2024
-Krakow, Poland [Slides] (https://sites.google.com/unitn.it/ai4bpm-2024/keynote)
+Krakow, Poland [Slides](https://sites.google.com/unitn.it/ai4bpm-2024/keynote)
 
 **Event Log Data Quality in Process Mining: Modelling, Assessing, Improving**<br>
 July 2024

@@ -18,13 +18,13 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 #### 2024
 
-W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science (accepted)
+S. Kim, **M. Comuzzi**, C. Di Francescomarino (2024) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (accepted)
 
-**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici "On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring" ML4PM Workshop at ICPM 2024 (accepted) [pdf](url)
+W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3)
 
-W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science (accepted) [pdf] (url)
+**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici "On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring" ML4PM Workshop at ICPM 2024 (accepted) [pdf](https://ml4pm.di.unimi.it/preproceedings/ICPM_2024_paper_175.pdf) **Best Paper Award**
 
-P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) "Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions", Process Science (accepted) [pdf](url)
+P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) "Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions", Process Science, Article 2 [pdf](https://link.springer.com/article/10.1007/s44311-024-00002-4)
 
 A. Hijriani and **M. Comuzzi** (2024) "Business Value of Process Mining: A Contingency Perspective" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm) accepted
 

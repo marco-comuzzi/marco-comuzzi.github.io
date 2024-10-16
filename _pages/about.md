@@ -20,6 +20,6 @@ This website is normally up to date, but I also maintain (not very accurately, I
 
 ### News
 
+* Our paper got the Best Paper Award at the [ML4PM](https://ml4pm.di.unimi.it) Workshop of ICPM 2024!
 * I will give a keynote talk at the [AI4BPM](https://sites.google.com/unitn.it/ai4bpm-2024) workshop at the 22nd BPM Conference on September 2nd 2024 in Krakow, Poland.
-* I will give a keynote talk at [BIGDAS](http://bigdas.or.kr/2024/) on August 22nd 2024 in Jeju, Korea
 * I am serving as PC Chair of [CoopIS 2024](https://coopis.scitevents.org)
