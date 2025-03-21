@@ -20,6 +20,8 @@ This website is normally up to date, but I also maintain (not very accurately, I
 
 ### News
 
+* In May 2025, I will attend the Dagstuhl Seminar [AUTOBIZ: Pushing the Boundaries of AI-Driven Process Execution and Adaptation](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25192)
+* The [Proceedings of CoopIS 2024](https://link.springer.com/book/10.1007/978-3-031-81375-7) are out!
 * Our paper got the Best Paper Award at the [ML4PM](https://ml4pm.di.unimi.it) Workshop of ICPM 2024!
-* I will give a keynote talk at the [AI4BPM](https://sites.google.com/unitn.it/ai4bpm-2024) workshop at the 22nd BPM Conference on September 2nd 2024 in Krakow, Poland.
-* I am serving as PC Chair of [CoopIS 2024](https://coopis.scitevents.org)
+
+
