@@ -18,6 +18,8 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 #### 2025
 
+TEST
+
 **M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality (accepted)
 
 A. Hijriani and **M. Comuzzi** (2025) Identifying Negative Contingencies Within Process Mining Initiatives, Proc. 23rd Int. Conf. on Business Process Management (BPM) accepted 
