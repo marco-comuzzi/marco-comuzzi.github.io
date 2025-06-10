@@ -16,9 +16,19 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 ###  Recent articles (from 2020)
 
-#### 2024
+#### 2025
 
-S. Kim, **M. Comuzzi**, C. Di Francescomarino (2024) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (accepted)
+**M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality (accepted)
+
+A. Hijriani and **M. Comuzzi** (2025) Identifying Negative Contingencies Within Process Mining Initiatives, Proc. 23rd Int. Conf. on Business Process Management (BPM) accepted 
+
+Balaktsis, C., Mavroudopoulos, I., Gounaris, A., **Comuzzi, M.**, and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025 - accepted
+
+Mavroudopoulos, I., Balaktsis, C., Varvoutas, K., Kougka, G., Gounaris, A. and **Comuzzi, M.** (2025) Declarative process mining in big data scenarios using an application-agnostic framework. Process Science 2, 6. [pdf](https://doi.org/10.1007/s44311-025-00013-9)
+
+S. Kim, **M. Comuzzi**, C. Di Francescomarino (2025) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (accepted)
+
+#### 2024
 
 W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3)
 
