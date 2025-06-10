@@ -14,11 +14,9 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
 [Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
 
-###  Recent articles (from 2020)
+###  Recent articles (from 2021)
 
 #### 2025
-
-TEST
 
 **M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality (accepted)
 
@@ -94,7 +92,9 @@ S. Lee, **M. Comuzzi**, and X. Lu (2021) "Continuous performance evaluation for 
 
 **M. Comuzzi**, C, Cappiello, and G. Meroni (2021) "An empirical evaluation of smart contract-based data quality assessment in Ethereum", Proc.  Blockchain Forum 2021 held in conjunction with BPM 2021, pp. 51-66. **Best Paper Award**
 
-#### 2020
+
+
+### Older articles
 
 J. Ko and **M. Comuzzi** (2020) "Detecting anomalies in business process event logs using statistical leverage", Information Sciences, 549, 53-67.
 
@@ -107,10 +107,6 @@ M. Vargas and **M. Comuzzi** (2020) "A multi-dimensional model of Enterprise Res
 J. Ko and **M. Comuzzi** (2020) "Online anomaly detection using statistical leverage for streaming business process events", 1st Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2020 
 
 J. Ko, J. Lee, and **M. Comuzzi** (2020) "AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs", 2nd Int. Conf. on Process Mining (ICPM) - Demonstration Track
-
-### Older articles
-
-**Journal publications**
 
 B. Tama, M. Comuzzi, and Rhee, K.-H*. (2019) "TSE-IDS: A Two-Stage Classifier Ensemble for Intelligent Anomaly-based Intrusion Detection System", IEEE Access, 7, 94497-94507.
 
@@ -159,9 +155,6 @@ M. Comuzzi* and B. Pernici (2009) "A Framework for QoS-Based Web service contrac
 M. Comuzzi*, C. Francalanci, and P. Giacomazzi (2008) "Pricing the quality of differentiated services for media oriented real-time applications: a multi-attribute negotiation approach" Computer Networks, 52(18), pp. 3373-3391.
 
 D. Ardagna, M. Comuzzi, E. Mussi, B. Pernici, and P. Plebani (2007) "PAWS: A framework for executing Adaptive Web-service Processes" IEEE Software, 24(6), pp. 39-46. 
-
-
-**Peer-reviewed conferences and workshops**
 
 M. Comuzzi, J. Ko and S. Lee (2019) "Predicting outpatient process flows to minimise the cost of handling returning patients: A case study", Workshop on Process-Oriented Data Science for Healthcare (PODS4H 2019) held in conjunction with BPM 2019 (accepted)
 
