@@ -22,6 +22,8 @@ E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, 
 
 #### 2025
 
+A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems (accepted)
+
 J. Ko, **M. Comuzzi**, M. Wynn and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), accepted.
 
 Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 102488.
