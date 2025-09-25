@@ -16,13 +16,21 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 ###  Recent articles (from 2021)
 
+### 2026
+
+E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2025) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 108063.
+
 #### 2025
 
-**M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality (accepted)
+J. Ko, **M. Comuzzi**, M. Wynn and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), accepted.
 
-A. Hijriani and **M. Comuzzi** (2025) Identifying Negative Contingencies Within Process Mining Initiatives, Proc. 23rd Int. Conf. on Business Process Management (BPM) accepted 
+Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 102488.
 
-Balaktsis, C., Mavroudopoulos, I., Gounaris, A., **Comuzzi, M.**, and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025 - accepted
+**M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality, 17(2), Article 6
+
+A. Hijriani and **M. Comuzzi** (2025) Identifying Negative Contingencies Within Process Mining Initiatives, Proc. 23rd Int. Conf. on Business Process Management (BPM), pp. 505-522. 
+
+Balaktsis, C., Mavroudopoulos, I., Gounaris, A., **Comuzzi, M.**, and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025, pp. 147-164.
 
 Mavroudopoulos, I., Balaktsis, C., Varvoutas, K., Kougka, G., Gounaris, A. and **Comuzzi, M.** (2025) Declarative process mining in big data scenarios using an application-agnostic framework. Process Science 2, 6. [pdf](https://doi.org/10.1007/s44311-025-00013-9)
 

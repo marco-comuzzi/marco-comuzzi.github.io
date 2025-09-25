@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+**What Can Large Language Models Do for Process Mining?**
+August 2025
+Invited talk at the 1st Asia-Pacific Symposium on Process and Artificial Intelligence (ASPAI), co-located with the 8th Information Systems International Conference, Bali, Indonesia.
+
+**Event Log Data Quality in Process Mining: Modelling, Assessing, Improvement**
+June 2025
+University of Southampton, Southampton, United Kingdom.
+
 **PPM, Quo Vadis? Challenges and Future Directions of the Predictive Process Monitoring Research Field**
 September 2024
 Invited Keynote, 8th Int. Workshop on Artificial Intelligence for Business Process Management (AI4BPM), at BPM 2024
