@@ -20,8 +20,9 @@ This website is normally up to date, but I also maintain (not very accurately, I
 
 ### News
 
-* In May 2025, I will attend the Dagstuhl Seminar [AUTOBIZ: Pushing the Boundaries of AI-Driven Process Execution and Adaptation](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25192)
+* I will be a keynote speaker at the [BC4ISE26@CAiSE workshop](https://bc4ise.github.io) with a talk titled "Blockchains That Lived and Those That Died: A Design and Governance Perspective".
+* I will attend CAiSE 2026 in Verona ... see you there!
 * The [Proceedings of CoopIS 2024](https://link.springer.com/book/10.1007/978-3-031-81375-7) are out!
-* Our paper got the Best Paper Award at the [ML4PM](https://ml4pm.di.unimi.it) Workshop of ICPM 2024!
+
 
 

@@ -18,17 +18,21 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 ### 2026
 
-E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2025) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 108063.
+A. Alman, **M. Comuzzi**, C. Di Francescomarino, I. Donadello, F. M. Maggi, and J. Oukharijane (2026) "Definitely Maybe: Neuro-Symbolic Predictive Process Monitoring with Probabilistic Declarative Knowledge" ACM Transactions on Intelligent Systems and Technology (accepted)
+
+E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2026) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 108063.
+
+**M. Comuzzi**, 1.	S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026 (accepted)
 
 #### 2025
 
-A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems (accepted)
+A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems, 19(12).
 
-J. Ko, **M. Comuzzi**, M. Wynn and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), accepted.
+J. Ko, **M. Comuzzi**, M. Wynn and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), 1-8.
 
 Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 102488.
 
-**M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality, 17(2), Article 6
+**M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality, 17(2), Article 6.
 
 A. Hijriani and **M. Comuzzi** (2025) Identifying Negative Contingencies Within Process Mining Initiatives, Proc. 23rd Int. Conf. on Business Process Management (BPM), pp. 505-522. 
 
@@ -36,7 +40,7 @@ Balaktsis, C., Mavroudopoulos, I., Gounaris, A., **Comuzzi, M.**, and Maggi, F.M
 
 Mavroudopoulos, I., Balaktsis, C., Varvoutas, K., Kougka, G., Gounaris, A. and **Comuzzi, M.** (2025) Declarative process mining in big data scenarios using an application-agnostic framework. Process Science 2, 6. [pdf](https://doi.org/10.1007/s44311-025-00013-9)
 
-S. Kim, **M. Comuzzi**, C. Di Francescomarino (2025) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (accepted)
+S. Kim, **M. Comuzzi**, C. Di Francescomarino (2025) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (in press)
 
 #### 2024
 
