@@ -18,11 +18,15 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 ### 2026
 
-A. Alman, **M. Comuzzi**, C. Di Francescomarino, I. Donadello, F. M. Maggi, and J. Oukharijane (2026) "Definitely Maybe: Neuro-Symbolic Predictive Process Monitoring with Probabilistic Declarative Knowledge" ACM Transactions on Intelligent Systems and Technology (accepted)
+S. Sadeghianasl, D. Fischer, M. Adams, R. Andrews, **M. Comuzzi**, R. Dijkman, J. Ko, A. Koschmider, M. Wynn, T. Ziolkowski (2026) ["PraeclarusPDQ: A Reference Architecture for Process Data Quality Management"](https://dl.acm.org/doi/10.1145/3840381) ACM Journal on Data and Information Quality (accepted)
+
+G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) "Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates" Information Systems (accepted)
+
+A. Alman, **M. Comuzzi**, C. Di Francescomarino, I. Donadello, F. M. Maggi, and J. Oukharijane (2026) "Definitely Maybe: Neuro-Symbolic Predictive Process Monitoring with Probabilistic Declarative Knowledge" ACM Transactions on Intelligent Systems and Technology, 17(5), n.100 pp. 1-23.
 
 E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2026) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 108063.
 
-**M. Comuzzi**, 1.	S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026 (accepted)
+**M. Comuzzi**, 1.	S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026, pp. 405-422.
 
 #### 2025
 

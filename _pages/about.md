@@ -20,9 +20,9 @@ This website is normally up to date, but I also maintain (not very accurately, I
 
 ### News
 
-* I will be a keynote speaker at the [BC4ISE26@CAiSE workshop](https://bc4ise.github.io) with a talk titled "Blockchains That Lived and Those That Died: A Design and Governance Perspective".
-* I will attend CAiSE 2026 in Verona ... see you there!
-* The [Proceedings of CoopIS 2024](https://link.springer.com/book/10.1007/978-3-031-81375-7) are out!
+* I will be a keynote speaker at the [NLP4BPM workshop](https://sites.google.com/view/nlp4bpm2026/home) at BPM 2026 with a talk about what LLMs can do (and are doing) for process mining.
+* I will attend BPM 2026 in Toronto, Canada ... see you there!
+
 
 
 
