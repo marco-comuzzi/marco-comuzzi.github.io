@@ -18,9 +18,11 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 
 ### 2026
 
-S. Sadeghianasl, D. Fischer, M. Adams, R. Andrews, **M. Comuzzi**, R. Dijkman, J. Ko, A. Koschmider, M. Wynn, T. Ziolkowski (2026) ["PraeclarusPDQ: A Reference Architecture for Process Data Quality Management"](https://dl.acm.org/doi/10.1145/3840381) ACM Journal on Data and Information Quality (accepted)
+**M. Comuzzi**, S. Kim, J. Ko, C. Cappiello, M. Salamov, and B. Pernici (2026) On the Impact of Low-Quality Activity Labels on Data-Driven Process Analytics, International Journal of Data Science and Analytics (accepted)
 
-G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) "Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates" Information Systems (accepted)
+S. Sadeghianasl, D. Fischer, M. Adams, R. Andrews, **M. Comuzzi**, R. Dijkman, J. Ko, A. Koschmider, M. Wynn, T. Ziolkowski (2026) ["PraeclarusPDQ: A Reference Architecture for Process Data Quality Management"](https://dl.acm.org/doi/10.1145/3840381) ACM Journal on Data and Information Quality, 18(3), 1-40.
+
+G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) "Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates" Information Systems, n. 102794.
 
 A. Alman, **M. Comuzzi**, C. Di Francescomarino, I. Donadello, F. M. Maggi, and J. Oukharijane (2026) "Definitely Maybe: Neuro-Symbolic Predictive Process Monitoring with Probabilistic Declarative Knowledge" ACM Transactions on Intelligent Systems and Technology, 17(5), n.100 pp. 1-23.
 

@@ -20,8 +20,8 @@ This website is normally up to date, but I also maintain (not very accurately, I
 
 ### News
 
-* I will be a keynote speaker at the [NLP4BPM workshop](https://sites.google.com/view/nlp4bpm2026/home) at BPM 2026 with a talk about what LLMs can do (and are doing) for process mining.
-* I will attend BPM 2026 in Toronto, Canada ... see you there!
+* TBA
+* TBA
 
 
 
