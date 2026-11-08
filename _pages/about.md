@@ -15,6 +15,7 @@ My research is in the broad area of information systems design and data science,
 <nav class="profile-shortcuts" aria-label="Academic resources">
   <a href="/publications/">Publications</a>
   <a href="https://iel.unist.ac.kr">Research Lab</a>
+  <a href="/talks/">Talks</a>
   <a href="/teaching/">Teaching</a>
   <a href="/cv/">CV</a>
 </nav>

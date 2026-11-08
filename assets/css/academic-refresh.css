@@ -20,6 +20,9 @@
 .skip-link:focus { transform: translateY(0); }
 .profile-shortcuts, .publication-years { display: flex; flex-wrap: wrap; gap: .6em; margin: 1.5em 0 2em; }
 .profile-shortcuts a, .publication-years a { display: inline-block; padding: .45em .8em; border: 1px solid #c4d4db; border-radius: 5px; text-decoration: none; font-weight: 600; }
+/* Keep homepage shortcuts in normal flow, independent of the collapsing masthead. */
+.academic-site .page__content .profile-shortcuts { display: flex; flex-wrap: wrap; position: static; width: 100%; max-width: 100%; overflow: visible; visibility: visible; }
+.academic-site .page__content .profile-shortcuts a { flex: 0 1 auto; max-width: 100%; white-space: normal; }
 .profile-shortcuts a:hover, .publication-years a:hover { background: #edf4f6; }
 .profile-landscape { display: block; width: 100%; height: auto; border-radius: 8px; margin: 1.5em 0; }
 .news-placeholder { margin-top: 2.5em; padding: .2em 1.2em; border-left: 3px solid #dce4e8; font-size: .875em; }

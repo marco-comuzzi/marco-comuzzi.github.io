@@ -10,6 +10,49 @@ md.renderer.rules.heading_open = function (tokens, index) {
 };
 const source = fs.readFileSync('_pages/publications.md', 'utf8').split('---').slice(2).join('---');
 const html = '<body data-page="/publications/"><nav id="site-nav"><button aria-expanded="false"></button><ul id="navigation-overflow" class="hidden"></ul></nav><main class="archive">' + md.render(source) + '</main></body>';
+// Homepage links remain in content even when the masthead is collapsed.
+const homeSource = fs.readFileSync('_pages/about.md', 'utf8').split('---').slice(2).join('---');
+const home = new JSDOM('<body class="academic-site"><nav id="site-nav" hidden></nav><main><section class="page__content">' + md.render(homeSource) + '</section></main></body>');
+const homeDoc = home.window.document;
+const styles = homeDoc.createElement('style');
+styles.textContent = fs.readFileSync('assets/css/academic-refresh.css', 'utf8');
+homeDoc.head.append(styles);
+const shortcuts = homeDoc.querySelector('main .page__content .profile-shortcuts');
+assert.ok(shortcuts && !shortcuts.closest('#site-nav'));
+const expectedLinks = [
+  ['Publications', '/publications/'], ['Research Lab', 'https://iel.unist.ac.kr'],
+  ['Talks', '/talks/'], ['Teaching', '/teaching/'], ['CV', '/cv/']
+];
+assert.deepEqual([...shortcuts.querySelectorAll('a')].map(a => [a.textContent, a.getAttribute('href')]), expectedLinks);
+assert.equal(home.window.getComputedStyle(shortcuts).display, 'flex');
+assert.equal(home.window.getComputedStyle(shortcuts).flexWrap, 'wrap');
+[shortcuts, ...shortcuts.querySelectorAll('a')].forEach(element => {
+  for (let node = element; node; node = node.parentElement) {
+    assert.equal(node.hidden, false);
+    assert.notEqual(node.getAttribute('aria-hidden'), 'true');
+    const computed = home.window.getComputedStyle(node);
+    assert.notEqual(computed.display, 'none');
+    assert.notEqual(computed.visibility, 'hidden');
+  }
+});
+// Inspect every refresh breakpoint statically; this does not replace mobile browser QA.
+function checkShortcutRules(rules) {
+  [...rules].forEach(rule => {
+    if (rule.cssRules) checkShortcutRules(rule.cssRules);
+    if (rule.selectorText && rule.selectorText.includes('.profile-shortcuts')) {
+      assert.notEqual(rule.style.getPropertyValue('display'), 'none');
+      assert.notEqual(rule.style.getPropertyValue('visibility'), 'hidden');
+      assert.notEqual(rule.style.getPropertyValue('overflow'), 'hidden');
+      assert.notEqual(rule.style.getPropertyValue('white-space'), 'nowrap');
+      assert.notEqual(rule.style.getPropertyValue('flex-wrap'), 'nowrap');
+    }
+  });
+}
+checkShortcutRules(styles.sheet.cssRules);
+assert.equal(home.window.getComputedStyle(shortcuts.querySelector('a')).whiteSpace, 'normal');
+console.log('PASS homepage: all five visible in-content destinations, independent of collapsed header; flex wrapping/no hiding rules across refresh breakpoints (static/DOM only)');
+home.window.close();
+
 (async () => {
   const dom = new JSDOM(html, {runScripts: 'outside-only', url: 'https://example.test/publications/'});
   const doc = dom.window.document;
