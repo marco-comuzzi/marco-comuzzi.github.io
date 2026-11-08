@@ -6,7 +6,23 @@ author_profile: true
 ---
 
 
-### Book
+<nav class="publication-years" aria-label="Publication sections">
+  <a href="#2026">2026</a>
+  <a href="#2025">2025</a>
+  <a href="#2024">2024</a>
+  <a href="#2023">2023</a>
+  <a href="#2022">2022</a>
+  <a href="#2021">2021</a>
+  <a href="#older-articles">Older articles</a>
+</nav>
+
+<div class="publication-search" hidden>
+  <label for="publication-query">Search publications</label>
+  <input id="publication-query" type="search" placeholder="Title, author, venue or year" aria-describedby="publication-count">
+  <p id="publication-count" role="status" aria-live="polite"></p>
+</div>
+
+## Book
 
 **Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York<br>
 [Online companion website](https://sites.google.com/view/blockchainforbusiness/home)<br>
@@ -14,7 +30,7 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
 [Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
 
-###  Recent articles (from 2021)
+## Recent articles (from 2021)
 
 ### 2026
 
@@ -30,7 +46,7 @@ E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, 
 
 **M. Comuzzi**, 1.	S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026, pp. 405-422.
 
-#### 2025
+### 2025
 
 A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems, 19(12).
 
@@ -48,7 +64,7 @@ Mavroudopoulos, I., Balaktsis, C., Varvoutas, K., Kougka, G., Gounaris, A. and *
 
 S. Kim, **M. Comuzzi**, C. Di Francescomarino (2025) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (in press)
 
-#### 2024
+### 2024
 
 W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3)
 
@@ -64,7 +80,7 @@ O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang c, H.R. Kim, J. Ko b, J.-Y. P
 
 Hijriani, A. and **Comuzzi, M.** (2024). Towards a Maturity Model of Process Mining as an Analytic Capability. Proc. HICSS 57, pp. 6002-6011 [pdf](https://scholarspace.manoa.hawaii.edu/bitstreams/603f1d8b-a1ae-4213-8907-bc6319324351/download)
 
-#### 2023
+### 2023
 
 Hofstede AH, Koschmider A, Marrella A, Andrews R, Fischer DA, Sadeghianasl S, Wynn MT, **Comuzzi M**, De Weerdt J, Goel K, Martin N. (2023) Process-Data Quality: The True Frontier of Process Mining. ACM Journal of Data and Information Quality, 15(3), p. 1-21. [pdf](https://dl.acm.org/doi/pdf/10.1145/3613247)
 
@@ -80,7 +96,7 @@ S. Lee, X. Lu, **M. Comuzzi**, and H.A. Reijers (2023) "Measuring the Stability 
 
 Yessenbayev, O., **Comuzzi, M.**, Meroni, G., & Nguyen, D. C. D. (2023, November). A Middleware for Hybrid Blockchain Applications: Towards Fast, Affordable, and Accountable Integration. In International Conference on Service-Oriented Computing (pp. 307-322).
 
-#### 2022
+### 2022
 
 J. Kim, **M. Comuzzi**, M. Dumas, F.M. Maggi, and I. Teinemaa (2022) "Encoding Resource Experience for Predictive Process Monitoring," Decision Support Systems, 153: 113669.
 
@@ -98,7 +114,7 @@ Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process p
 
 G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) "Supporting Impact Analysis of Process-Aware Information System Updates Using Digital Twins of Organizations" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 158-176.
 
-#### 2021
+### 2021
 
 J. Kim and **M. Comuzzi** (2021) "Stability metrics for enhancing the evaluation of outcome-based business process predictive monitoring," IEEE Access, 9: 133461-133471.
 
@@ -114,7 +130,7 @@ S. Lee, **M. Comuzzi**, and X. Lu (2021) "Continuous performance evaluation for 
 
 
 
-### Older articles
+## Older articles
 
 J. Ko and **M. Comuzzi** (2020) "Detecting anomalies in business process event logs using statistical leverage", Information Sciences, 549, 53-67.
 
