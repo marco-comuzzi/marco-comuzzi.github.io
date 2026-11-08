@@ -39,3 +39,15 @@ for layout in ("single", "archive"):
     assert 'id="main" role="main" tabindex="-1"' in Path(f"_layouts/{layout}.html").read_text()
 assert 'replace: " at ", "@"' in Path("_includes/author-profile.html").read_text()
 print("PASS hierarchy, placeholders, year links, skip targets and email template")
+
+# Explicitly approved exception: shorten only the globally shared sidebar bio.
+old_bio = "I am Associate Professor at the Department of Industrial Engineering, Ulsan National Institute of Science and Technology, Ulsan, in Korea. My research focuses on process mining and blockchain systems."
+new_bio = "Researching process mining, blockchain and information systems."
+old_config = original("_config.yml")
+assert old_config.count(old_bio) == 1
+assert Path("_config.yml").read_text() == old_config.replace(old_bio, new_bio)
+assert "{{ author.bio }}" in Path("_includes/author-profile.html").read_text()
+for path in ["_pages/about.md", "_pages/publications.md", "_pages/teaching.md", "_pages/cv.md", "_pages/talks.md"]:
+    assert not re.search(r"^author:\s*\S", Path(path).read_text(), re.M), f"Unexpected sidebar author override: {path}"
+assert "I am currently Associate Professor and Director of the Blockchain Research Center" in about
+print("PASS only approved shared sidebar bio substitution; full homepage role retained")
