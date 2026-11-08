@@ -18,8 +18,13 @@ const html = '<body data-page="/publications/"><nav id="site-nav"><button aria-e
   const before = doc.querySelector('.archive').textContent;
   dom.window.eval(fs.readFileSync('assets/js/academic-refresh.js', 'utf8'));
   const entries = [...doc.querySelectorAll('.publication-entry')];
-  assert.ok(entries.length > 70, 'All citation paragraphs indexed');
+  assert.equal(entries.length, 111, 'All original citation paragraphs retained and indexed');
   assert.equal(doc.querySelector('.publication-search').hidden, false);
+  const approved = JSON.parse(fs.readFileSync('_tests/approved-publications.json', 'utf8'));
+  approved.changes.forEach(change => {
+    const doi = /\[DOI\]\((https:\/\/doi\.org\/[^)]+)\)/.exec(change.after)[1];
+    assert.equal([...doc.querySelectorAll('.archive a')].filter(a => a.href === doi).length, 1, doi);
+  });
   const input = doc.getElementById('publication-query');
   function search(query) { input.value = query; input.dispatchEvent(new dom.window.Event('input')); }
   search('blockchain');

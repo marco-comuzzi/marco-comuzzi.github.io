@@ -1,0 +1,2670 @@
+{
+  "approval": "User approved verified publication audit proposals; exact substitutions only. No speculative metadata filling.",
+  "baseline": "master",
+  "changes": [
+    {
+      "id": 2,
+      "before": "**M. Comuzzi**, S. Kim, J. Ko, C. Cappiello, M. Salamov, and B. Pernici (2026) On the Impact of Low-Quality Activity Labels on Data-Driven Process Analytics, International Journal of Data Science and Analytics (accepted)",
+      "after": "**M. Comuzzi**, S. Kim, J. Ko, C. Cappiello, M. Salamov, and B. Pernici (2026) On the Impact of Low-Quality Activity Labels on Data-Driven Process Analytics, International Journal of Data Science and Analytics, 22, Article 340. [DOI](https://doi.org/10.1007/s41060-026-01334-z)",
+      "fields": [
+        "status",
+        "volume",
+        "locator",
+        "doi"
+      ],
+      "decision": "Publisher confirms online publication, volume 22, article 340; not merely accepted.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/s41060-026-01334-z",
+        "https://doi.org/10.1007/s41060-026-01334-z",
+        "https://link.springer.com/article/10.1007/s41060-026-01334-z"
+      ],
+      "evidence": {
+        "title": [
+          "On the impact of low-quality activity labels on data-driven process analytics"
+        ],
+        "volume": "22",
+        "issue": "1",
+        "page": null,
+        "article-number": "340",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              13
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              12
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              13
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Sungkyu",
+          "family": "Kim"
+        },
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Cinzia",
+          "family": "Cappiello"
+        },
+        {
+          "given": "Musa",
+          "family": "Salamov"
+        },
+        {
+          "given": "Barbara",
+          "family": "Pernici"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "before": "G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) \"Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates\" Information Systems, n. 102794.",
+      "after": "G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) \"Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates\" Information Systems, 143, Article 102794 (issue year 2027). [DOI](https://doi.org/10.1016/j.is.2026.102794)",
+      "fields": [
+        "volume",
+        "locator",
+        "issue-year clarification",
+        "doi"
+      ],
+      "decision": "Keep existing 2026 citation year; Crossref explicitly assigns volume 143 to January 2027. No assertion about online year.",
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.is.2026.102794",
+        "https://doi.org/10.1016/j.is.2026.102794"
+      ],
+      "evidence": {
+        "title": [
+          "Analyzing structural, operational, and performance impact of process-aware information system updates"
+        ],
+        "volume": "143",
+        "issue": null,
+        "page": "102794",
+        "article-number": "102794",
+        "published": {
+          "date-parts": [
+            [
+              2027,
+              1
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2027,
+              1
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Gyunam",
+          "family": "Park"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Wil M.P.",
+          "family": "van der Aalst"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "before": "E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2026) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 108063.",
+      "after": "E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2026) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 175, Article 108063. [DOI](https://doi.org/10.1016/j.future.2025.108063)",
+      "fields": [
+        "volume",
+        "locator",
+        "doi"
+      ],
+      "decision": "108063 is an article number, not a missing page range.",
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.future.2025.108063",
+        "https://doi.org/10.1016/j.future.2025.108063"
+      ],
+      "evidence": {
+        "title": [
+          "Entity ablation of knowledge graphs: Impact on information quality and sustainability"
+        ],
+        "volume": "175",
+        "issue": null,
+        "page": "108063",
+        "article-number": "108063",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              2
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              2
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Edoardo",
+          "family": "Ramalli"
+        },
+        {
+          "given": "Carlo Alberto",
+          "family": "Bono"
+        },
+        {
+          "given": "Camilla",
+          "family": "Sancricca"
+        },
+        {
+          "given": "Cinzia",
+          "family": "Cappiello"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Barbara",
+          "family": "Pernici"
+        },
+        {
+          "given": "Monica",
+          "family": "Vitali"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "before": "**M. Comuzzi**, 1.\tS. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026, pp. 405-422.",
+      "after": "**M. Comuzzi**, S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026, pp. 405-422. [DOI](https://doi.org/10.1007/978-3-032-28117-3_23)",
+      "fields": [
+        "authors",
+        "doi"
+      ],
+      "decision": "Stray numbered-list artifact before S. Ra; all six authors retained.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-032-28117-3_23",
+        "https://doi.org/10.1007/978-3-032-28117-3_23"
+      ],
+      "evidence": {
+        "title": [
+          "Towards Agentic AI for Event Log Data Quality Assessment"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "405-422",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              9
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Suryeon",
+          "family": "Ra"
+        },
+        {
+          "given": "Dariga",
+          "family": "Narmanova"
+        },
+        {
+          "given": "Sangwoo",
+          "family": "Cho"
+        },
+        {
+          "given": "Yeongik",
+          "family": "Hong"
+        },
+        {
+          "given": "Selim",
+          "family": "Jung"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "before": "A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems, 19(12).",
+      "after": "A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems, 19(12), Article 2567696. [DOI](https://doi.org/10.1080/17517575.2025.2567696)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "Crossref supplies article number 2567696; do not invent pages.",
+      "sources": [
+        "https://api.crossref.org/works/10.1080/17517575.2025.2567696",
+        "https://doi.org/10.1080/17517575.2025.2567696"
+      ],
+      "evidence": {
+        "title": [
+          "Developing and evaluating HP3M: the holistic process mining maturity model"
+        ],
+        "volume": "19",
+        "issue": "12",
+        "page": null,
+        "article-number": "2567696",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              30
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              2
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              30
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Astria",
+          "family": "Hijriani"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "before": "J. Ko, **M. Comuzzi**, M. Wynn and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), 1-8.",
+      "after": "J. Ko, M. Wynn, **M. Comuzzi** and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), 1-8. [DOI](https://doi.org/10.1109/icpm66919.2025.11220719)",
+      "fields": [
+        "authors",
+        "doi"
+      ],
+      "decision": "IEEE-deposited Crossref author sequence is Ko, Wynn, Comuzzi, Maggi; all names retained.",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/icpm66919.2025.11220719",
+        "https://doi.org/10.1109/icpm66919.2025.11220719"
+      ],
+      "evidence": {
+        "title": [
+          "A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "1-8",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              20
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              20
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Jonghyeong",
+          "family": "Ko"
+        },
+        {
+          "given": "Moe Thandar",
+          "family": "Wynn"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Fabrizio Maria",
+          "family": "Maggi"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "before": "Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 102488.",
+      "after": "Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 160, Article 102488. [DOI](https://doi.org/10.1016/j.datak.2025.102488)",
+      "fields": [
+        "volume",
+        "locator",
+        "doi"
+      ],
+      "decision": "Crossref supplies volume 160; 102488 is an article number.",
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.datak.2025.102488",
+        "https://doi.org/10.1016/j.datak.2025.102488"
+      ],
+      "evidence": {
+        "title": [
+          "Detecting and repairing anomaly patterns in business process event logs"
+        ],
+        "volume": "160",
+        "issue": null,
+        "page": "102488",
+        "article-number": "102488",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              11
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              11
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Fabrizio Maria",
+          "family": "Maggi"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "before": "Balaktsis, C., Mavroudopoulos, I., Gounaris, A., **Comuzzi, M.**, and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025, pp. 147-164.",
+      "after": "Balaktsis, C., Mavroudopoulos, I., **Comuzzi, M.**, Gounaris, A., and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025, pp. 147-164. [DOI](https://doi.org/10.1007/978-3-032-02929-4_9)",
+      "fields": [
+        "authors",
+        "doi"
+      ],
+      "decision": "Springer confirms Balaktsis, Mavroudopoulos, Comuzzi, Gounaris, Maggi; retain all five names. Existing citation/event year 2025 retained: Springer print proceedings metadata says 2026 while online publication is 2025; no unsupported silent year replacement.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-032-02929-4_9",
+        "https://doi.org/10.1007/978-3-032-02929-4_9",
+        "https://link.springer.com/chapter/10.1007/978-3-032-02929-4_9"
+      ],
+      "evidence": {
+        "title": [
+          "Discovering Comprehensive Branched Declarative Process Constraints"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "147-164",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              27
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              27
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Christos",
+          "family": "Balaktsis"
+        },
+        {
+          "given": "Ioannis",
+          "family": "Mavroudopoulos"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Anastasios",
+          "family": "Gounaris"
+        },
+        {
+          "given": "Fabrizio Maria",
+          "family": "Maggi"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "before": "S. Kim, **M. Comuzzi**, C. Di Francescomarino (2025) \"Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring\", Journal of Intelligent Information Systems (in press)",
+      "after": "S. Kim, **M. Comuzzi**, C. Di Francescomarino (2026; first published online 2024) \"Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring\", Journal of Intelligent Information Systems, 64(3), 1031-1056. [DOI](https://doi.org/10.1007/s10844-024-00903-7)",
+      "fields": [
+        "year",
+        "online-year clarification",
+        "status",
+        "volume",
+        "issue",
+        "locator",
+        "doi"
+      ],
+      "decision": "Independently rechecked publisher article citation metadata AND volume 64(3) issue listing: both June 2026, pages 1031–1056; article first published online 31 October 2024. Sources agree, so use issue year 2026 and move to 2026 section.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/s10844-024-00903-7",
+        "https://doi.org/10.1007/s10844-024-00903-7",
+        "https://link.springer.com/article/10.1007/s10844-024-00903-7",
+        "https://link.springer.com/journal/10844/volumes-and-issues/64-3"
+      ],
+      "evidence": {
+        "title": [
+          "Explaining the impact of design choices on model quality in predictive process monitoring"
+        ],
+        "volume": "64",
+        "issue": "3",
+        "page": "1031-1056",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              31
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              31
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Sungkyu",
+          "family": "Kim"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Chiara",
+          "family": "Di Francescomarino"
+        }
+      ],
+      "target_section": "2026"
+    },
+    {
+      "id": 16,
+      "before": "W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) \"Explainable Predictive Process Monitoring: A User Evaluation\", Process Science, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3)",
+      "after": "W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) \"Explainable Predictive Process Monitoring: A User Evaluation\", Process Science, 1, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3) [DOI](https://doi.org/10.1007/s44311-024-00003-3)",
+      "fields": [
+        "volume",
+        "doi"
+      ],
+      "decision": "Useful completion; Article 3 is already a valid locator.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/s44311-024-00003-3",
+        "https://doi.org/10.1007/s44311-024-00003-3"
+      ],
+      "evidence": {
+        "title": [
+          "Explainable predictive process monitoring: a user evaluation"
+        ],
+        "volume": "1",
+        "issue": "1",
+        "page": null,
+        "article-number": "3",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              2
+            ]
+          ]
+        },
+        "published-print": null,
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              2
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Williams",
+          "family": "Rizzi"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Chiara",
+          "family": "Di Francescomarino"
+        },
+        {
+          "given": "Chiara",
+          "family": "Ghidini"
+        },
+        {
+          "given": "Suhwan",
+          "family": "Lee"
+        },
+        {
+          "given": "Fabrizio Maria",
+          "family": "Maggi"
+        },
+        {
+          "given": "Alexander",
+          "family": "Nolte"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "before": "**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici \"On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring\" ML4PM Workshop at ICPM 2024 (accepted) [pdf](https://ml4pm.di.unimi.it/preproceedings/ICPM_2024_paper_175.pdf) **Best Paper Award**",
+      "after": "**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici \"On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring\" ML4PM Workshop at ICPM 2024, proceedings published 2025, pp. 201-213. [pdf](https://ml4pm.di.unimi.it/preproceedings/ICPM_2024_paper_175.pdf) **Best Paper Award** [DOI](https://doi.org/10.1007/978-3-031-82225-4_15)",
+      "fields": [
+        "status",
+        "proceedings-year clarification",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Published proceedings 2025, for ICPM 2024 workshop; retain event year explicitly. Original ML4PM workshop name, PDF and award retained.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-031-82225-4_15",
+        "https://doi.org/10.1007/978-3-031-82225-4_15",
+        "https://link.springer.com/chapter/10.1007/978-3-031-82225-4_15"
+      ],
+      "evidence": {
+        "title": [
+          "On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "201-213",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              28
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Sungkyu",
+          "family": "Kim"
+        },
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Musa",
+          "family": "Salamov"
+        },
+        {
+          "given": "Cinzia",
+          "family": "Cappiello"
+        },
+        {
+          "given": "Barbara",
+          "family": "Pernici"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "before": "P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) \"Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions\", Process Science, Article 2 [pdf](https://link.springer.com/article/10.1007/s44311-024-00002-4)",
+      "after": "P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) \"Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions\", Process Science, 1, Article 2 [pdf](https://link.springer.com/article/10.1007/s44311-024-00002-4) [DOI](https://doi.org/10.1007/s44311-024-00002-4)",
+      "fields": [
+        "volume",
+        "doi"
+      ],
+      "decision": "Useful completion; Article 2 is already valid.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/s44311-024-00002-4",
+        "https://doi.org/10.1007/s44311-024-00002-4"
+      ],
+      "evidence": {
+        "title": [
+          "Predictive process monitoring: concepts, challenges, and future research directions"
+        ],
+        "volume": "1",
+        "issue": "1",
+        "page": null,
+        "article-number": "2",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              27
+            ]
+          ]
+        },
+        "published-print": null,
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              27
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Paolo",
+          "family": "Ceravolo"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Jochen",
+          "family": "De Weerdt"
+        },
+        {
+          "given": "Chiara",
+          "family": "Di Francescomarino"
+        },
+        {
+          "given": "Fabrizio Maria",
+          "family": "Maggi"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "before": "A. Hijriani and **M. Comuzzi** (2024) \"Business Value of Process Mining: A Contingency Perspective\" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm) accepted",
+      "after": "A. Hijriani and **M. Comuzzi** (2024) \"Business Value of Process Mining: A Contingency Perspective\" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm), Business Process Management Workshops, proceedings published 2025, pp. 376-381. [DOI](https://doi.org/10.1007/978-3-031-78666-2_29)",
+      "fields": [
+        "status",
+        "proceedings-year clarification",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Published proceedings 2025 for 2024 workshop. Full original workshop title retained.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-031-78666-2_29",
+        "https://doi.org/10.1007/978-3-031-78666-2_29",
+        "https://link.springer.com/chapter/10.1007/978-3-031-78666-2_29"
+      ],
+      "evidence": {
+        "title": [
+          "Business Value of Process Mining: A Contingency Perspective"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "376-381",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              20
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Astria",
+          "family": "Hijriani"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "before": "I. Mavroudopoulos, K. Varvoutas, G. Kougka, A. Gounaris and **M. Comuzzi** (2024) \"Exploiting general purpose big-data frameworks in process mining: the case of declarative process discovery.\" 22nd Int. Conf. on Business Process Management (BPM) accepted.",
+      "after": "I. Mavroudopoulos, K. Varvoutas, G. Kougka, A. Gounaris and **M. Comuzzi** (2024) \"Exploiting general purpose big-data frameworks in process mining: the case of declarative process discovery.\" 22nd Int. Conf. on Business Process Management (BPM), pp. 185-202. [DOI](https://doi.org/10.1007/978-3-031-70396-6_11)",
+      "fields": [
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "Springer confirms published BPM 2024 chapter, pp. 185–202.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-031-70396-6_11",
+        "https://doi.org/10.1007/978-3-031-70396-6_11",
+        "https://link.springer.com/chapter/10.1007/978-3-031-70396-6_11"
+      ],
+      "evidence": {
+        "title": [
+          "Exploiting General Purpose Big-Data Frameworks in Process Mining: The Case of Declarative Process Discovery"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "185-202",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              2
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Ioannis",
+          "family": "Mavroudopoulos"
+        },
+        {
+          "given": "Konstantinos",
+          "family": "Varvoutas"
+        },
+        {
+          "given": "Georgia",
+          "family": "Kougka"
+        },
+        {
+          "given": "Anastasios",
+          "family": "Gounaris"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "before": "O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang c, H.R. Kim, J. Ko b, J.-Y. Par, M.-S. Roh, **M. Comuzzi** (2024) \"Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation.\" Journal of Industrial Information Integration, 39:100596.",
+      "after": "O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang, H.R. Kim, J. Ko, J.-Y. Park, M.-S. Roh, **M. Comuzzi** (2024) \"Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation.\" Journal of Industrial Information Integration, 39:100596. [DOI](https://doi.org/10.1016/j.jii.2024.100596)",
+      "fields": [
+        "authors",
+        "doi"
+      ],
+      "decision": "Affiliation markers b/c leaked into author names; Crossref confirms Kang, Ko and Park.",
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.jii.2024.100596",
+        "https://doi.org/10.1016/j.jii.2024.100596"
+      ],
+      "evidence": {
+        "title": [
+          "Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation"
+        ],
+        "volume": "39",
+        "issue": null,
+        "page": "100596",
+        "article-number": "100596",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              5
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              5
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Olzhas",
+          "family": "Yessenbayev"
+        },
+        {
+          "given": "Dung Chi Duy",
+          "family": "Nguyen"
+        },
+        {
+          "given": "Taeseok",
+          "family": "Jeong"
+        },
+        {
+          "given": "Ki Joon",
+          "family": "Kang"
+        },
+        {
+          "given": "Hee Reyoung",
+          "family": "Kim"
+        },
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Jin-Young",
+          "family": "Park"
+        },
+        {
+          "given": "Myung-Sub",
+          "family": "Roh"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "before": "Kim, S., **Comuzzi, M.**, & Di Francescomarino, C. (2023, October). Understanding the Impact of Design Choices on the Performance of Predictive Process Monitoring. In ICPM Workshops (pp. 153-164). Cham: Springer Nature Switzerland.",
+      "after": "Kim, S., **Comuzzi, M.**, & Di Francescomarino, C. (2023, October). Understanding the Impact of Design Choices on the Performance of Predictive Process Monitoring. In ICPM 2023 Workshops (proceedings published 2024) (pp. 153-164). Cham: Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-56107-8_12)",
+      "fields": [
+        "proceedings-year clarification",
+        "doi"
+      ],
+      "decision": "Crossref proceedings publication is 2024, conference was ICPM 2023. Not necessarily factual error if website consistently uses conference years.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-031-56107-8_12",
+        "https://doi.org/10.1007/978-3-031-56107-8_12"
+      ],
+      "evidence": {
+        "title": [
+          "Understanding the Impact of Design Choices on the Performance of Predictive Process Monitoring"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "153-164",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              13
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Sungkyu",
+          "family": "Kim"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Chiara",
+          "family": "Di Francescomarino"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "before": "K. Schaerer and **M. Comuzzi** (2023) \"The Quantum Threat to Blockchain: Summary and Timeline Analysis\", Quantum Machine Intelligence, 5(1), 1-12. ",
+      "after": "K. Schaerer and **M. Comuzzi** (2023) \"The Quantum Threat to Blockchain: Summary and Timeline Analysis\", Quantum Machine Intelligence, 5(1), Article 19. [DOI](https://doi.org/10.1007/s42484-023-00105-4)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "Quantum Machine Intelligence uses Article 19; 1–12 describes PDF extent rather than the bibliographic locator.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/s42484-023-00105-4",
+        "https://doi.org/10.1007/s42484-023-00105-4",
+        "https://link.springer.com/article/10.1007/s42484-023-00105-4"
+      ],
+      "evidence": {
+        "title": [
+          "The quantum threat to blockchain: summary and timeline analysis"
+        ],
+        "volume": "5",
+        "issue": "1",
+        "page": null,
+        "article-number": "19",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              24
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              6
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              24
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Kai",
+          "family": "Schärer"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "before": "Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process predictive monitoring. In ICPM Workshops (pp. 242-254). Cham: Springer Nature Switzerland.",
+      "after": "Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process predictive monitoring. In ICPM 2022 Workshops (proceedings published 2023) (pp. 242-254). Cham: Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-27815-0_18)",
+      "fields": [
+        "proceedings-year clarification",
+        "doi"
+      ],
+      "decision": "Crossref proceedings publication is 2023, conference was ICPM 2022.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-031-27815-0_18",
+        "https://doi.org/10.1007/978-3-031-27815-0_18"
+      ],
+      "evidence": {
+        "title": [
+          "Genetic Algorithms for AutoML in Process Predictive Monitoring"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "242-254",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              26
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Nahyun",
+          "family": "Kwon"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "before": "S. Lee, **M. Comuzzi**, and X. Lu (2021) \"Continuous performance evaluation for business process outcome monitoring,\" Proc. 2nd Int. Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2021 ",
+      "after": "S. Lee, **M. Comuzzi**, and X. Lu (2021) \"Continuous performance evaluation for business process outcome monitoring,\" Proc. 2nd Int. Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2021, Process Mining Workshops (published 2022), pp. 237-249. [DOI](https://doi.org/10.1007/978-3-030-98581-3_18)",
+      "fields": [
+        "proceedings-year clarification",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Springer/Crossref proceedings year 2022, ICPM 2021 event.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-030-98581-3_18",
+        "https://doi.org/10.1007/978-3-030-98581-3_18"
+      ],
+      "evidence": {
+        "title": [
+          "Continuous Performance Evaluation for Business Process Outcome Monitoring"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "237-249",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              24
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Suhwan",
+          "family": "Lee"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Xixi",
+          "family": "Lu"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "before": "J. Ko and **M. Comuzzi** (2020) \"Detecting anomalies in business process event logs using statistical leverage\", Information Sciences, 549, 53-67.",
+      "after": "J. Ko and **M. Comuzzi** (2021) \"Detecting anomalies in business process event logs using statistical leverage\", Information Sciences, 549, 53-67. [DOI](https://doi.org/10.1016/j.ins.2020.11.017)",
+      "fields": [
+        "year",
+        "doi"
+      ],
+      "decision": "Final journal volume 549 is March 2021; title/authors/volume/pages match. Online/DOI year 2020 can be retained as note.",
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.ins.2020.11.017",
+        "https://doi.org/10.1016/j.ins.2020.11.017"
+      ],
+      "evidence": {
+        "title": [
+          "Detecting anomalies in business process event logs using statistical leverage"
+        ],
+        "volume": "549",
+        "issue": null,
+        "page": "53-67",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              3
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              3
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ],
+      "target_section": "2021"
+    },
+    {
+      "id": 45,
+      "before": "**M. Comuzzi**, C. Cappiello and G. Meroni (2020) \"On the Need for Data Quality Assessment in Blockchains\", IEEE Internet Computing, 25(3): 71-78.",
+      "after": "**M. Comuzzi**, C. Cappiello and G. Meroni (2021) \"On the Need for Data Quality Assessment in Blockchains\", IEEE Internet Computing, 25(3): 71-78. [DOI](https://doi.org/10.1109/mic.2020.3030978)",
+      "fields": [
+        "year",
+        "doi"
+      ],
+      "decision": "IEEE volume 25(3) belongs to 2021, rather than online year 2020.",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/mic.2020.3030978",
+        "https://doi.org/10.1109/mic.2020.3030978"
+      ],
+      "evidence": {
+        "title": [
+          "On the Need for Data Quality Assessment in Blockchains"
+        ],
+        "volume": "25",
+        "issue": "3",
+        "page": "71-78",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Cinzia",
+          "family": "Cappiello"
+        },
+        {
+          "given": "Giovanni",
+          "family": "Meroni"
+        }
+      ],
+      "target_section": "2021"
+    },
+    {
+      "id": 48,
+      "before": "J. Ko and **M. Comuzzi** (2020) \"Online anomaly detection using statistical leverage for streaming business process events\", 1st Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2020 ",
+      "after": "J. Ko and **M. Comuzzi** (2020) \"Online anomaly detection using statistical leverage for streaming business process events\", 1st Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2020, Process Mining Workshops (published 2021), pp. 193-205. [DOI](https://doi.org/10.1007/978-3-030-72693-5_15)",
+      "fields": [
+        "proceedings-year clarification",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Published workshop proceedings 2021 for ICPM 2020.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-030-72693-5_15",
+        "https://doi.org/10.1007/978-3-030-72693-5_15"
+      ],
+      "evidence": {
+        "title": [
+          "Online Anomaly Detection Using Statistical Leverage for Streaming Business Process Events"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "193-205",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              31
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "before": "M. Rangiha, M. Comuzzi* (2016) \"A framework to capture and reuse process knowledge in business process design and execution using social tagging\", Business Process Management Journal, vol. 22, no. 4, 835-859.",
+      "after": "M. Rangiha, M. Comuzzi*, and B. Karakostas (2016) \"A framework to capture and reuse process knowledge in business process design and execution using social tagging\", Business Process Management Journal, vol. 22, no. 4, 835-859. [DOI](https://doi.org/10.1108/bpmj-06-2015-0080)",
+      "fields": [
+        "authors",
+        "doi"
+      ],
+      "decision": "Crossref lists Bill Karakostas as third author, corroborated by researchr. Preserve existing two and restore B. Karakostas.",
+      "sources": [
+        "https://api.crossref.org/works/10.1108/bpmj-06-2015-0080",
+        "https://doi.org/10.1108/bpmj-06-2015-0080"
+      ],
+      "evidence": {
+        "title": [
+          "A framework to capture and reuse process knowledge in business process design and execution using social tagging"
+        ],
+        "volume": "22",
+        "issue": "4",
+        "page": "835-859",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              4
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              4
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Mohammad Ehson",
+          "family": "Rangiha"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Bill",
+          "family": "Karakostas"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "before": "K. Kritikos, B. Pernici, P. Plebani, C. Cappiello, M. Comuzzi, S. Benbernou, I. Brandic, A. Kertesz, M. Parkin, and M. Carro (2013) \"A Survey on Service Quality Description\", ACM Computing Surveys, vol. 46, no.1.",
+      "after": "K. Kritikos, B. Pernici, P. Plebani, C. Cappiello, M. Comuzzi, S. Benbernou, I. Brandic, A. Kertesz, M. Parkin, and M. Carro (2013) \"A Survey on Service Quality Description\", ACM Computing Surveys, 46(1), Article 1 (58 pages). [DOI](https://doi.org/10.1145/2522968.2522969)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "Indexed ACM publisher citation explicitly says Article No. 1, pages 1–58. Use Article 1 plus extent, not global issue pages. Direct publisher access returned a challenge.",
+      "sources": [
+        "https://api.crossref.org/works/10.1145/2522968.2522969",
+        "https://doi.org/10.1145/2522968.2522969",
+        "https://dl.acm.org/doi/10.1145/2522968.2522969"
+      ],
+      "evidence": {
+        "title": [
+          "A survey on service quality description"
+        ],
+        "volume": "46",
+        "issue": "1",
+        "page": "1-58",
+        "article-number": "1",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              11
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              10
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              11
+            ]
+          ]
+        },
+        "extent": "58 pages"
+      },
+      "authors": [
+        {
+          "given": "Kyriakos",
+          "family": "Kritikos"
+        },
+        {
+          "given": "Barbara",
+          "family": "Pernici"
+        },
+        {
+          "given": "Pierluigi",
+          "family": "Plebani"
+        },
+        {
+          "given": "Cinzia",
+          "family": "Cappiello"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Salima",
+          "family": "Benrernou"
+        },
+        {
+          "given": "Ivona",
+          "family": "Brandic"
+        },
+        {
+          "given": "Attila",
+          "family": "Kertész"
+        },
+        {
+          "given": "Michael",
+          "family": "Parkin"
+        },
+        {
+          "given": "Manuel",
+          "family": "Carro"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "before": "M. Comuzzi, J. Ko and S. Lee (2019) \"Predicting outpatient process flows to minimise the cost of handling returning patients: A case study\", Workshop on Process-Oriented Data Science for Healthcare (PODS4H 2019) held in conjunction with BPM 2019 (accepted)",
+      "after": "M. Comuzzi, J. Ko and S. Lee (2019) \"Predicting outpatient process flows to minimise the cost of handling returning patients: A case study\", Workshop on Process-Oriented Data Science for Healthcare (PODS4H 2019) held in conjunction with BPM 2019, Business Process Management Workshops, pp. 557-569. [DOI](https://doi.org/10.1007/978-3-030-37453-2_45)",
+      "fields": [
+        "status",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Published chapter; pp. 557–569.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-030-37453-2_45",
+        "https://doi.org/10.1007/978-3-030-37453-2_45"
+      ],
+      "evidence": {
+        "title": [
+          "Predicting Outpatient Process Flows to Minimise the Cost of Handling Returning Patients: A Case Study"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "557-569",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              3
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Jonghyeon",
+          "family": "Ko"
+        },
+        {
+          "given": "Suhwan",
+          "family": "Lee"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "before": "C. Cappiello, M. Comuzzi, F. Daniel and G. Meroni (2019) \"Data quality control in blockchain applications\", Blockchain Forum 2019 held in conjunction with BPM 2019 (accepted)",
+      "after": "C. Cappiello, M. Comuzzi, F. Daniel and G. Meroni (2019) \"Data quality control in blockchain applications\", Blockchain Forum 2019 held in conjunction with BPM 2019, pp. 166-181. [DOI](https://doi.org/10.1007/978-3-030-30429-4_12)",
+      "fields": [
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "Published Blockchain Forum chapter; pp. 166–181.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-030-30429-4_12",
+        "https://doi.org/10.1007/978-3-030-30429-4_12"
+      ],
+      "evidence": {
+        "title": [
+          "Data Quality Control in Blockchain Applications"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "166-181",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              26
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Cinzia",
+          "family": "Cappiello"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Florian",
+          "family": "Daniel"
+        },
+        {
+          "given": "Giovanni",
+          "family": "Meroni"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "before": "M. Comuzzi, A. E. Marquez-Chamorro, and M. Resinas (2018) \"A Hybrid Reliability Metric for SLA Predictive Monitoring\", 34th ACM Symposium on Applied Computing (accepted)",
+      "after": "M. Comuzzi, A. E. Marquez-Chamorro, and M. Resinas (2019) \"A Hybrid Reliability Metric for SLA Predictive Monitoring\", 34th ACM Symposium on Applied Computing, pp. 32-39. [DOI](https://doi.org/10.1145/3297280.3297285)",
+      "fields": [
+        "year",
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "SAC 34 was 2019; ACM record published April 2019, pp. 32–39.",
+      "sources": [
+        "https://api.crossref.org/works/10.1145/3297280.3297285",
+        "https://doi.org/10.1145/3297280.3297285"
+      ],
+      "evidence": {
+        "title": [
+          "A hybrid reliability metric for SLA predictive monitoring"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "32-39",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              8
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              8
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              8
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Alfonso E.",
+          "family": "Marquez-Chamorro"
+        },
+        {
+          "given": "Manuel",
+          "family": "Resinas"
+        }
+      ],
+      "target_section": "Older articles"
+    },
+    {
+      "id": 77,
+      "before": "M. Comuzzi, A. Marquez-Chamorro and M. Resinas (2018) \"Does your accurate process predictive monitoring model give reliable predictions?\" 1st ICSOC Workshop on AI and Data Mining for Services.",
+      "after": "M. Comuzzi, A. Marquez-Chamorro and M. Resinas (2018) \"Does your accurate process predictive monitoring model give reliable predictions?\" 1st ICSOC Workshop on AI and Data Mining for Services (2018), Service-Oriented Computing – ICSOC 2018 Workshops (published 2019), pp. 367-373. [DOI](https://doi.org/10.1007/978-3-030-17642-6_30)",
+      "fields": [
+        "proceedings-year clarification",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Published 2019 revised workshop proceedings, event 2018.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-030-17642-6_30",
+        "https://doi.org/10.1007/978-3-030-17642-6_30"
+      ],
+      "evidence": {
+        "title": [
+          "Does Your Accurate Process Predictive Monitoring Model Give Reliable Predictions?"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "367-373",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Alfonso E.",
+          "family": "Marquez-Chamorro"
+        },
+        {
+          "given": "Manuel",
+          "family": "Resinas"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "before": "H. Nguyen** and M. Comuzzi (2018) \"Event log reconstruction using autoencoders\", 1st ICSOC Workshop on AI and Data Mining for Services.",
+      "after": "H. Nguyen** and M. Comuzzi (2018) \"Event log reconstruction using autoencoders\", 1st ICSOC Workshop on AI and Data Mining for Services (2018), Service-Oriented Computing – ICSOC 2018 Workshops (published 2019), pp. 335-350. [DOI](https://doi.org/10.1007/978-3-030-17642-6_28)",
+      "fields": [
+        "proceedings-year clarification",
+        "locator",
+        "venue",
+        "doi"
+      ],
+      "decision": "Published 2019 proceedings, event 2018.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-030-17642-6_28",
+        "https://doi.org/10.1007/978-3-030-17642-6_28"
+      ],
+      "evidence": {
+        "title": [
+          "Event Log Reconstruction Using Autoencoders"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "335-350",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              10
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Hoang Thi Cam",
+          "family": "Nguyen"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "before": "M. Comuzzi (2017) \"Optimal paths in business processes: framework and applications\", 1st Workshop on Business Process Innovations with Artificial Intelligence, in conjunction with BPM 2017, pp. 107-123.",
+      "after": "M. Comuzzi (2017) \"Optimal paths in business processes: framework and applications\", 1st Workshop on Business Process Innovations with Artificial Intelligence, in conjunction with BPM 2017 (proceedings published 2018), pp. 107-123. [DOI](https://doi.org/10.1007/978-3-319-74030-0_7)",
+      "fields": [
+        "proceedings-year clarification",
+        "doi"
+      ],
+      "decision": "Published 2018 workshop proceedings for BPM 2017.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-319-74030-0_7",
+        "https://doi.org/10.1007/978-3-319-74030-0_7"
+      ],
+      "evidence": {
+        "title": [
+          "Optimal Paths in Business Processes: Framework and Applications"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "107-123",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              17
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "before": "Y. Djenouri, Z. Habbas, D. Djenouri and M. Comuzzi (2017) \"Diversification Heuristics in Bees Swarm Optimization for Association Rules Mining\", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques **Best paper award**",
+      "after": "Y. Djenouri, Z. Habbas, D. Djenouri and M. Comuzzi (2017) \"Diversification Heuristics in Bees Swarm Optimization for Association Rules Mining\", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques, pp. 68-78. **Best paper award** [DOI](https://doi.org/10.1007/978-3-319-67274-8_7)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "Springer chapter pp. 68–78.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-319-67274-8_7",
+        "https://doi.org/10.1007/978-3-319-67274-8_7"
+      ],
+      "evidence": {
+        "title": [
+          "Diversification Heuristics in Bees Swarm Optimization for Association Rules Mining"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "68-78",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              7
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Youcef",
+          "family": "Djenouri"
+        },
+        {
+          "given": "Zineb",
+          "family": "Habbas"
+        },
+        {
+          "given": "Djamel",
+          "family": "Djenouri"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "before": "Y. Djenouri and M. Comuzzi (2017) \"GA-Apriori: combining Apriori Heuristic and Genetic Algorithms for Solving the Frequent Itemsets Mining Problem\", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques (accepted)",
+      "after": "Y. Djenouri and M. Comuzzi (2017) \"GA-Apriori: combining Apriori Heuristic and Genetic Algorithms for Solving the Frequent Itemsets Mining Problem\", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques, pp. 138-148. [DOI](https://doi.org/10.1007/978-3-319-67274-8_13)",
+      "fields": [
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "Published Springer chapter pp. 138–148.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-319-67274-8_13",
+        "https://doi.org/10.1007/978-3-319-67274-8_13"
+      ],
+      "evidence": {
+        "title": [
+          "GA-Apriori: Combining Apriori Heuristic and Genetic Algorithms for Solving the Frequent Itemsets Mining Problem"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "138-148",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              7
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Youcef",
+          "family": "Djenouri"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "before": "Y. Djenouri, M. Comuzzi, D. Djenouri (2017) \"SS-FIM: Single Scan for Frequent Itemsets Mining in Transactional Databases\", Proc. 2017 Pacific-Asia Conference on Knowledge and Data Mining - PAKDD 2017 (accepted)",
+      "after": "Y. Djenouri, M. Comuzzi, D. Djenouri (2017) \"SS-FIM: Single Scan for Frequent Itemsets Mining in Transactional Databases\", Proc. 2017 Pacific-Asia Conference on Knowledge and Data Mining - PAKDD 2017, pp. 644-654. [DOI](https://doi.org/10.1007/978-3-319-57529-2_50)",
+      "fields": [
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "Published Springer chapter pp. 644–654.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-319-57529-2_50",
+        "https://doi.org/10.1007/978-3-319-57529-2_50"
+      ],
+      "evidence": {
+        "title": [
+          "SS-FIM: Single Scan for Frequent Itemsets Mining in Transactional Databases"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "644-654",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              23
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Youcef",
+          "family": "Djenouri"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Djamel",
+          "family": "Djenouri"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "before": "Y. Djenouri, A. Bendjoudi, D. Djenouri and M. Comuzzi (2017) \"GPU-based bio-inspired model for solving association rule mining problem\", Proc. 25th Euromicro Int. Conf. on Parallel, Distributed and Network-based Processing - PDP 2017 (accepted).",
+      "after": "Y. Djenouri, A. Bendjoudi, D. Djenouri and M. Comuzzi (2017) \"GPU-based bio-inspired model for solving association rules mining problem\", Proc. 25th Euromicro Int. Conf. on Parallel, Distributed and Network-based Processing - PDP 2017, pp. 262-269. [DOI](https://doi.org/10.1109/pdp.2017.16)",
+      "fields": [
+        "title",
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "IEEE chapter pp. 262–269; publisher title uses Association Rules (plural). Correct verified plural Rules in title (audit prose noted it but proposed text omitted the correction).",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/pdp.2017.16",
+        "https://doi.org/10.1109/pdp.2017.16"
+      ],
+      "evidence": {
+        "title": [
+          "GPU-based Bio-inspired Model for Solving Association Rules Mining Problem"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "262-269",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Youcef",
+          "family": "Djenouri"
+        },
+        {
+          "given": "Ahcene",
+          "family": "Bendjoudi"
+        },
+        {
+          "given": "Djamel",
+          "family": "Djenouri"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "before": "M. Parhizkar and M. Comuzzi (2016) \"A framework for impact analysis of post-implementation Enterprise Resource Planning modifications\", Proc. SAI Computing Conference 2016 (accepted for publication)",
+      "after": "M. Parhizkar and M. Comuzzi (2016) \"A framework for impact analysis of post-implementation Enterprise Resource Planning modifications\", Proc. SAI Computing Conference 2016, pp. 706-714. [DOI](https://doi.org/10.1109/sai.2016.7556059)",
+      "fields": [
+        "status",
+        "locator",
+        "doi"
+      ],
+      "decision": "IEEE conference paper pp. 706–714.",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/sai.2016.7556059",
+        "https://doi.org/10.1109/sai.2016.7556059"
+      ],
+      "evidence": {
+        "title": [
+          "A framework for impact analysis of post-implementation enterprise resource planning modifications"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "706-714",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              7
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              7
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Minou",
+          "family": "Parhizkar"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "before": "E. Luftenegger, M. Comuzzi, and P. Grefen (2013) \"The Service Dominant Ecosystem: Mapping a Service Dominant Strategy to a Product-Service Ecosystem,\" Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany.",
+      "after": "E. Luftenegger, M. Comuzzi, and P. Grefen (2013) \"The Service Dominant Ecosystem: Mapping a Service Dominant Strategy to a Product-Service Ecosystem,\" Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany, pp. 22-30. [DOI](https://doi.org/10.1007/978-3-642-40543-3_3)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "Springer chapter pp. 22–30.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-642-40543-3_3",
+        "https://doi.org/10.1007/978-3-642-40543-3_3"
+      ],
+      "evidence": {
+        "title": [
+          "The Service-Dominant Ecosystem: Mapping a Service Dominant Strategy to a Product-Service Ecosystem"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "22-30",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Egon",
+          "family": "Lüftenegger"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Paul",
+          "family": "Grefen"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "before": "M. Comuzzi, G. Jacobs, and P. Grefen (2013) \"Understanding SLA elements in Cloud Computing,\" Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany.",
+      "after": "M. Comuzzi, G. Jacobs, and P. Grefen (2013) \"Understanding SLA elements in Cloud Computing,\" Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany, pp. 385-392. [DOI](https://doi.org/10.1007/978-3-642-40543-3_41)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "Springer chapter pp. 385–392.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-642-40543-3_41",
+        "https://doi.org/10.1007/978-3-642-40543-3_41"
+      ],
+      "evidence": {
+        "title": [
+          "Understanding SLA Elements in Cloud Computing"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "385-392",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Guus",
+          "family": "Jacobs"
+        },
+        {
+          "given": "Paul",
+          "family": "Grefen"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "before": "M. Comuzzi, K. Kritikos, and P.Plebani \"A Semantic based framework for supporting negotiation in Service Oriented Architectures\" Proc. 11th IEEE Conf. on Commerce and Enterprise Computing (CEC 2009), Vienna, Austria.",
+      "after": "M. Comuzzi, K. Kritikos, and P. Plebani (2009) \"A Semantic based framework for supporting negotiation in Service Oriented Architectures\" Proc. 11th IEEE Conf. on Commerce and Enterprise Computing (CEC 2009), Vienna, Austria, pp. 137-145. [DOI](https://doi.org/10.1109/cec.2009.17)",
+      "fields": [
+        "authors",
+        "year",
+        "locator",
+        "doi"
+      ],
+      "decision": "IEEE/Crossref confirms year 2009 and pages 137-145.",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/cec.2009.17",
+        "https://doi.org/10.1109/cec.2009.17"
+      ],
+      "evidence": {
+        "title": [
+          "A Semantic Based Framework for Supporting Negotiation in Service Oriented Architectures"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "137-145",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              7
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              7
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Kyriakos",
+          "family": "Kritikos"
+        },
+        {
+          "given": "Pierluigi",
+          "family": "Plebani"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "before": "M. Comuzzi, C. Kotsokalis, G. Spanoudakis, and R. Yahyapour (2009) “Establishing and Monitoring SLAs in Complex Service-Based Systems” Proc. 7th IEEE Int. Conf. on Web Services (ICWS'09) - Applications and Industry Track, Los Angeles (CA), USA.",
+      "after": "M. Comuzzi, C. Kotsokalis, G. Spanoudakis, and R. Yahyapour (2009) “Establishing and Monitoring SLAs in Complex Service-Based Systems” Proc. 7th IEEE Int. Conf. on Web Services (ICWS'09) - Applications and Industry Track, Los Angeles (CA), USA, pp. 783-790. [DOI](https://doi.org/10.1109/icws.2009.47)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "IEEE/Crossref pp. 783–790.",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/icws.2009.47",
+        "https://doi.org/10.1109/icws.2009.47"
+      ],
+      "evidence": {
+        "title": [
+          "Establishing and Monitoring SLAs in Complex Service Based Systems"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "783-790",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              7
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              7
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Constantinos",
+          "family": "Kotsokalis"
+        },
+        {
+          "given": "George",
+          "family": "Spanoudakis"
+        },
+        {
+          "given": "Ramin",
+          "family": "Yahyapour"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "before": "M. Comuzzi and G. Spanoudakis (2009) \"A Framework for Hierarchical and recursive Monitoring of Service Based Systems\" Proc. 4th Int. Conf. on Internet and Web Applications and Services, Venice, Italy.",
+      "after": "M. Comuzzi and G. Spanoudakis (2009) \"A Framework for Hierarchical and recursive Monitoring of Service Based Systems\" Proc. 4th Int. Conf. on Internet and Web Applications and Services, Venice, Italy, pp. 383-388. [DOI](https://doi.org/10.1109/iciw.2009.63)",
+      "fields": [
+        "locator",
+        "doi"
+      ],
+      "decision": "IEEE/Crossref pp. 383–388.",
+      "sources": [
+        "https://api.crossref.org/works/10.1109/iciw.2009.63",
+        "https://doi.org/10.1109/iciw.2009.63"
+      ],
+      "evidence": {
+        "title": [
+          "A Framework for Hierarchical and Recursive Monitoring of Service Based Systems"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "383-388",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2009
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2009
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "George",
+          "family": "Spanoudakis"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "before": "M. Comuzzi, K. Kritikos, and P. Plebani (2008) \"Semantic aware Service Quality Negotation\". Proc. ServiceWave Conference 2008, Madrid, Spain (LNCS 5377)",
+      "after": "M. Comuzzi, K. Kritikos, and P. Plebani (2008) \"Semantic-Aware Service Quality Negotiation\". Proc. ServiceWave Conference 2008, Madrid, Spain (LNCS 5377), pp. 312-323. [DOI](https://doi.org/10.1007/978-3-540-89897-9_27)",
+      "fields": [
+        "title",
+        "locator",
+        "doi"
+      ],
+      "decision": "Springer title Semantic-Aware Service Quality Negotiation; pp. 312–323.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-540-89897-9_27",
+        "https://doi.org/10.1007/978-3-540-89897-9_27"
+      ],
+      "evidence": {
+        "title": [
+          "Semantic-Aware Service Quality Negotiation"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "312-323",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "published-online": null
+      },
+      "authors": [
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Kyriakos",
+          "family": "Kritikos"
+        },
+        {
+          "given": "Pierluigi",
+          "family": "Plebani"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "before": "G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) \"Supporting Impact Analysis of Process-Aware Information System Updates Using Digital Twins of Organizations\" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 158-176.",
+      "after": "G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) \"Analyzing Process-Aware Information System Updates Using Digital Twins of Organizations\" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 159-176. [DOI](https://doi.org/10.1007/978-3-031-05760-1_10)",
+      "fields": [
+        "title",
+        "locator",
+        "doi"
+      ],
+      "decision": "Springer title and RCIS venue/three authors match; correct title and start page 159, not 158.",
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-3-031-05760-1_10",
+        "https://doi.org/10.1007/978-3-031-05760-1_10",
+        "https://link.springer.com/chapter/10.1007/978-3-031-05760-1_10"
+      ],
+      "evidence": {
+        "title": [
+          "Analyzing Process-Aware Information System Updates Using Digital Twins of Organizations"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "159-176",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              14
+            ]
+          ]
+        }
+      },
+      "authors": [
+        {
+          "given": "Gyunam",
+          "family": "Park"
+        },
+        {
+          "given": "Marco",
+          "family": "Comuzzi"
+        },
+        {
+          "given": "Wil M. P.",
+          "family": "van der Aalst"
+        }
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "id": 109,
+      "before": "M. Comuzzi and B. Pernici. (2005) An Architecture for Flexible Web Service QoS Negotiation, Proc. 9th IEEE EDOC Conference, EDOC 2005, Enschede, The Netherlands, pp. 70-79.",
+      "decision": "Keep pp. 70–79 unchanged. Conflicting 70–82 Crossref range not corroborated by IEEE/PDF; no DOI-only change to this record."
+    }
+  ],
+  "unresolved_untouched": [
+    {
+      "id": 1,
+      "before": "**Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York<br>",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 33,
+      "before": "Jorge Munoz-Gama, Niels Martin*, Carlos Fernández-Llatas, Owen A. Johnson, Marcos Sepúlveda, Emmanuel Helm, Victor Galvez-Yanjari, Eric Rojas, Antonio Martinez-Millana, Davide Aloini, Ilaria Angela Amantea, Robert Andrews, Michael Arias, Iris Beerepoot, Elisabetta Benevento, Andrea Burattin, Daniel Capurro, Josep Carmona, **M. Comuzzi**, Benjamin Dalmas, Rene de la Fuente, Chiara Di Francescomarino, Claudio Di Ciccio, Roberto Gatta, Chiara Ghidini, Fernanda Gonzalez-Lopez, Gema Ibáñez-Sánchez, Hilda B. Klasky, Angelina Prima Kurniati, Xixi Lu, Felix Mannhardt, Ronny Mans, Mar Marcos, Renata Medeiros de Carvalho, Marco Pegoraro, Simon K. Poon, Luise Pufahl, Hajo A. Reijers, Simon Remy, Stefanie Rinderle-Ma, Lucia Sacchi, Fernando Seoane, Minseok Song, Alessandro Stefanini, Emilio Sulis, Arthur H. M. ter Hofstede, Pieter J. Toussaint, Vicente Traver, Zoe Valero-Ramon, Inge van de Weerd, Wil M. P. van der Aalst, Rob J. B. Vanwersch, Mathias Weske, Moe Thandar Wynn, Francesca Zerbato (2022) \"Process Mining for Healthcare: Characteristics and Challenges,\" Journal of Biomedical Informatics, 127: 103994.",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 49,
+      "before": "J. Ko, J. Lee, and **M. Comuzzi** (2020) \"AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs\", 2nd Int. Conf. on Process Mining (ICPM) - Demonstration Track",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 101,
+      "before": "C. Cappiello and M. Comuzzi (2009) “A utility-based model to define the optimal data quality level in IT service offerings” Proc. 17th European Conference on Information Systems (ECIS 2009), Verona, Italy.",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 104,
+      "before": "C. Cappiello and M. Comuzzi (2007) Efficient allocation of quality improvements efforts to support the definition of data service offerings, Proc. 12th Int. Conference on Information Quality, ICIQ'07, Cambridge (MA), USA.",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 105,
+      "before": "E. Capra, M. Corso, M. Comuzzi, C. Francalanci, A. Giacobbe, and S. Modafferi (2007) Knowledge Management benefits from cooperation: evidence on SMEs, Proc. 2nd Knowledge Management in Organizations Conference, KMO 2007, Lecce, Italy.",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 106,
+      "before": "M. Comuzzi and M. Malatesta (2007) Knowledge Management in the Italian landscape: insights from a desk review of case studies, Proc. 2nd Knowledge Management in Organizations Conference, KMO 2007, Lecce, Italy",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 108,
+      "before": "D. Ardagna, C. Cappiello, M. Comuzzi, C. Francalanci, and B. Pernici (2005). A broker for selecting and provisioning high quality syndicated data, Proc. 10th International Conference on Information Quality, ICIQ 2005, Cambridge (MA), USA.",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    },
+    {
+      "id": 110,
+      "before": "M. Comuzzi, C. Francalanci, and P. Giacomazzi (2005). Trade off based negotiation of Traffic Conditioning and Service Level Agreements in DiffServ networks, Proc. 19th IEEE International Conference on Advanced Information Networking and Applications, AINA 2005, Taipei, Taiwan, pp. 189-194.",
+      "decision": "manual venue check needed: same-title journal version and conference version; do not transplant journal metadata"
+    },
+    {
+      "id": 111,
+      "before": "M. Comuzzi and C. Francalanci (2004). Agent-based negotiation in cooperative processes: automatic support to underwriting insurance policies, Proc. 6th International Conference on Electronic Commerce, ICEC'04, Delft, The Netherlands, pp. 121-129",
+      "decision": "unresolved / no safe authoritative title+author+venue match yet"
+    }
+  ]
+}

@@ -2,6 +2,7 @@
 from collections import Counter
 from pathlib import Path
 import re
+import json
 import subprocess
 import sys
 
@@ -20,10 +21,28 @@ def content_lines(source):
     return Counter(lines)
 for path in ["_pages/about.md", "_pages/publications.md", "_pages/teaching.md", "_pages/cv.md", "_pages/talks.md"]:
     old, new = original(path), Path(path).read_text()
+    original_links = Counter(re.findall(r"\]\(([^)]+)\)", old))
+    if path == "_pages/publications.md":
+        approved = json.loads(Path("_tests/approved-publications.json").read_text())
+        assert len(approved["changes"]) == 42
+        for change in approved["changes"]:
+            before, after = change["before"], change["after"]
+            assert old.count(before) == 1, f"Baseline citation not unique: {change['id']}"
+            assert new.count(after) == 1, f"Approved citation not unique: {change['id']}"
+            assert change["sources"] and change["authors"] and change["fields"]
+            old = old.replace(before, after, 1)
+            assert f"[DOI](https://doi.org/" in after
+            if "target_section" in change:
+                position = new.index(after)
+                headings = re.findall(r"^#{2,3} (.+)$", new[:position], re.M)
+                assert headings[-1] == change["target_section"], f"Wrong year section: {change['id']}"
+        for record in approved["deferred"] + approved["unresolved_untouched"]:
+            assert new.count(record["before"]) == 1, f"Unresolved citation changed: {record['id']}"
+        print("PASS 42 exact approved citation substitutions, year placement and 11 deferred/unresolved records")
     assert [x.rstrip() for x in old.split("---", 2)[1].splitlines()] == [x.rstrip() for x in new.split("---", 2)[1].splitlines()], f"Metadata/URLs changed: {path}"
     assert content_lines(old) == content_lines(new), f"Original wording changed: {path}"
     links = lambda s: Counter(re.findall(r"\]\(([^)]+)\)", s))
-    assert not links(old) - links(new), f"Original resources lost: {path}"
+    assert not original_links - links(new), f"Original resources lost: {path}"
     print("PASS preserved wording, metadata and links:", path)
 about = Path("_pages/about.md").read_text()
 assert about.index("I am currently") < about.index("My name") < about.index("/images/mountain.jpeg")
