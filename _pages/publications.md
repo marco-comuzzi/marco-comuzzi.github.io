@@ -6,7 +6,23 @@ author_profile: true
 ---
 
 
-### Book
+<nav class="publication-years" aria-label="Publication sections">
+  <a href="#2026">2026</a>
+  <a href="#2025">2025</a>
+  <a href="#2024">2024</a>
+  <a href="#2023">2023</a>
+  <a href="#2022">2022</a>
+  <a href="#2021">2021</a>
+  <a href="#older-articles">Older articles</a>
+</nav>
+
+<div class="publication-search" hidden>
+  <label for="publication-query">Search publications</label>
+  <input id="publication-query" type="search" placeholder="Title, author, venue or year" aria-describedby="publication-count">
+  <p id="publication-count" role="status" aria-live="polite"></p>
+</div>
+
+## Book
 
 **Comuzzi, M.**, Grefen, P., and Meroni, G. (2023) Blockchain for Business: IT Principles into Practice.  Routledge, New York<br>
 [Online companion website](https://sites.google.com/view/blockchainforbusiness/home)<br>
@@ -14,65 +30,65 @@ Get it on [Amazon](https://www.amazon.com/Blockchain-Business-Principles-into-Pr
 [Routledge](https://www.routledge.com/Blockchain-for-Business-IT-Principles-into-Practice/Comuzzi-Grefen-Meroni/p/book/9781032342467),
 [Kyobo](https://product.kyobobook.co.kr/detail/S000202994983)
 
-###  Recent articles (from 2021)
+## Recent articles (from 2021)
 
 ### 2026
 
-**M. Comuzzi**, S. Kim, J. Ko, C. Cappiello, M. Salamov, and B. Pernici (2026) On the Impact of Low-Quality Activity Labels on Data-Driven Process Analytics, International Journal of Data Science and Analytics (accepted)
+S. Kim, **M. Comuzzi**, C. Di Francescomarino (2026; first published online 2024) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems, 64(3), 1031-1056. [DOI](https://doi.org/10.1007/s10844-024-00903-7)
+
+**M. Comuzzi**, S. Kim, J. Ko, C. Cappiello, M. Salamov, and B. Pernici (2026) On the Impact of Low-Quality Activity Labels on Data-Driven Process Analytics, International Journal of Data Science and Analytics, 22, Article 340. [DOI](https://doi.org/10.1007/s41060-026-01334-z)
 
 S. Sadeghianasl, D. Fischer, M. Adams, R. Andrews, **M. Comuzzi**, R. Dijkman, J. Ko, A. Koschmider, M. Wynn, T. Ziolkowski (2026) ["PraeclarusPDQ: A Reference Architecture for Process Data Quality Management"](https://dl.acm.org/doi/10.1145/3840381) ACM Journal on Data and Information Quality, 18(3), 1-40.
 
-G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) "Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates" Information Systems, n. 102794.
+G. Park, **M. Comuzzi**, and W.M.P. van der Aalst (2026) "Analyzing Structural, Operational, and Performance Impact of Process-Aware Information System Updates" Information Systems, 143, Article 102794 (issue year 2027). [DOI](https://doi.org/10.1016/j.is.2026.102794)
 
 A. Alman, **M. Comuzzi**, C. Di Francescomarino, I. Donadello, F. M. Maggi, and J. Oukharijane (2026) "Definitely Maybe: Neuro-Symbolic Predictive Process Monitoring with Probabilistic Declarative Knowledge" ACM Transactions on Intelligent Systems and Technology, 17(5), n.100 pp. 1-23.
 
-E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2026) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 108063.
+E. Ramalli, C. A. Bono, C. Sancricca, C. Cappiello, **M. Comuzzi**, B. Pernici, and M. Vitali (2026) Entity ablation of knowledge graphs: impact on information quality and sustainability, Future Generation Computer Systems, 175, Article 108063. [DOI](https://doi.org/10.1016/j.future.2025.108063)
 
-**M. Comuzzi**, 1.	S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026, pp. 405-422.
+**M. Comuzzi**, S. Ra, D. Narmanova, S. Cho, Y. Hong, and S. Jung (2026) Towards Agentic AI for Event Log Data Quality Assessment, Int. Conf. on Advanced Information Systems Engineering (CAiSE) 2026, pp. 405-422. [DOI](https://doi.org/10.1007/978-3-032-28117-3_23)
 
-#### 2025
+### 2025
 
-A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems, 19(12).
+A. Hijriani and **M. Comuzzi** (2025) Developing and Evaluating HP3M: the Holistic Process Mining Maturity Model, Enterprise Information Systems, 19(12), Article 2567696. [DOI](https://doi.org/10.1080/17517575.2025.2567696)
 
-J. Ko, **M. Comuzzi**, M. Wynn and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), 1-8.
+J. Ko, M. Wynn, **M. Comuzzi** and F. M. Maggi (2025) A Reinforcement Learning Framework for Event Log Anomaly Detection and Repair, in Int. Conf. on Process Mining (ICPM), 1-8. [DOI](https://doi.org/10.1109/icpm66919.2025.11220719)
 
-Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 102488.
+Ko, J., **Comuzzi, M.**, & Maggi, F. M. (2025). Detecting and repairing anomaly patterns in business process event logs. Data & Knowledge Engineering, 160, Article 102488. [DOI](https://doi.org/10.1016/j.datak.2025.102488)
 
 **M. Comuzzi**, J. Ko, and F.M. Maggi (2025) "A Language to Model and Simulate Data Quality Issues in Process Mining" ACM Journal on Data and Information Quality, 17(2), Article 6.
 
 A. Hijriani and **M. Comuzzi** (2025) Identifying Negative Contingencies Within Process Mining Initiatives, Proc. 23rd Int. Conf. on Business Process Management (BPM), pp. 505-522. 
 
-Balaktsis, C., Mavroudopoulos, I., Gounaris, A., **Comuzzi, M.**, and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025, pp. 147-164.
+Balaktsis, C., Mavroudopoulos, I., **Comuzzi, M.**, Gounaris, A., and Maggi, F.M. (2025) Discovering Comprehensive Branched Declarative Process Constraints, Proc. BPM Forum at BPM 2025, pp. 147-164. [DOI](https://doi.org/10.1007/978-3-032-02929-4_9)
 
 Mavroudopoulos, I., Balaktsis, C., Varvoutas, K., Kougka, G., Gounaris, A. and **Comuzzi, M.** (2025) Declarative process mining in big data scenarios using an application-agnostic framework. Process Science 2, 6. [pdf](https://doi.org/10.1007/s44311-025-00013-9)
 
-S. Kim, **M. Comuzzi**, C. Di Francescomarino (2025) "Explaining the Impact of Design Choices on Model Quality in Predictive Process Monitoring", Journal of Intelligent Information Systems (in press)
+### 2024
 
-#### 2024
+W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science, 1, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3) [DOI](https://doi.org/10.1007/s44311-024-00003-3)
 
-W. Rizzi, **M. Comuzzi**, C. Di Francescomarino, C. Ghidini, S. Lee, F. M. Maggi, and A. Nolte (2024) "Explainable Predictive Process Monitoring: A User Evaluation", Process Science, Article 3 [pdf](https://link.springer.com/article/10.1007/s44311-024-00003-3)
+**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici "On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring" ML4PM Workshop at ICPM 2024, proceedings published 2025, pp. 201-213. [pdf](https://ml4pm.di.unimi.it/preproceedings/ICPM_2024_paper_175.pdf) **Best Paper Award** [DOI](https://doi.org/10.1007/978-3-031-82225-4_15)
 
-**M. Comuzzi**, S. Kim, J. Ko, M. Salamov, C. Cappiello, and B. Pernici "On the Impact of Low-Quality Activity Labels in Predictive Process Monitoring" ML4PM Workshop at ICPM 2024 (accepted) [pdf](https://ml4pm.di.unimi.it/preproceedings/ICPM_2024_paper_175.pdf) **Best Paper Award**
+P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) "Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions", Process Science, 1, Article 2 [pdf](https://link.springer.com/article/10.1007/s44311-024-00002-4) [DOI](https://doi.org/10.1007/s44311-024-00002-4)
 
-P. Ceravolo, **M. Comuzzi**, J. De Weerdt, C. Di Francescomarino, and F.M. Maggi (2024) "Predictive Process Monitoring: Concepts, Challenges, and Future Research Directions", Process Science, Article 2 [pdf](https://link.springer.com/article/10.1007/s44311-024-00002-4)
+A. Hijriani and **M. Comuzzi** (2024) "Business Value of Process Mining: A Contingency Perspective" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm), Business Process Management Workshops, proceedings published 2025, pp. 376-381. [DOI](https://doi.org/10.1007/978-3-031-78666-2_29)
 
-A. Hijriani and **M. Comuzzi** (2024) "Business Value of Process Mining: A Contingency Perspective" in Workshop on Managing Process Innovation and Value Creation in the Era of Digital Transformation (Innov8bpm) accepted
+I. Mavroudopoulos, K. Varvoutas, G. Kougka, A. Gounaris and **M. Comuzzi** (2024) "Exploiting general purpose big-data frameworks in process mining: the case of declarative process discovery." 22nd Int. Conf. on Business Process Management (BPM), pp. 185-202. [DOI](https://doi.org/10.1007/978-3-031-70396-6_11)
 
-I. Mavroudopoulos, K. Varvoutas, G. Kougka, A. Gounaris and **M. Comuzzi** (2024) "Exploiting general purpose big-data frameworks in process mining: the case of declarative process discovery." 22nd Int. Conf. on Business Process Management (BPM) accepted.
-
-O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang c, H.R. Kim, J. Ko b, J.-Y. Par, M.-S. Roh, **M. Comuzzi** (2024) "Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation." Journal of Industrial Information Integration, 39:100596.
+O. Yessenbayev, D.C.D. Nguyen, T. Jeong, K.J. Kang, H.R. Kim, J. Ko, J.-Y. Park, M.-S. Roh, **M. Comuzzi** (2024) "Combining blockchain and IoT for safe and transparent nuclear waste management: A prototype implementation." Journal of Industrial Information Integration, 39:100596. [DOI](https://doi.org/10.1016/j.jii.2024.100596)
 
 Hijriani, A. and **Comuzzi, M.** (2024). Towards a Maturity Model of Process Mining as an Analytic Capability. Proc. HICSS 57, pp. 6002-6011 [pdf](https://scholarspace.manoa.hawaii.edu/bitstreams/603f1d8b-a1ae-4213-8907-bc6319324351/download)
 
-#### 2023
+### 2023
 
 Hofstede AH, Koschmider A, Marrella A, Andrews R, Fischer DA, Sadeghianasl S, Wynn MT, **Comuzzi M**, De Weerdt J, Goel K, Martin N. (2023) Process-Data Quality: The True Frontier of Process Mining. ACM Journal of Data and Information Quality, 15(3), p. 1-21. [pdf](https://dl.acm.org/doi/pdf/10.1145/3613247)
 
 Grefen, P.; Vanderfeesten, I.; Wilbik, A.; **Comuzzi, M.**; Ludwig, H.; Serral, E.; Kuitems, F.; Blanken, M.; Pietrasik, M. (2023) "Towards Customer Outcome Management in Smart Manufacturing." Machines, 11, 636. [pdf](https://www.mdpi.com/2075-1702/11/6/636)
 
-Kim, S., **Comuzzi, M.**, & Di Francescomarino, C. (2023, October). Understanding the Impact of Design Choices on the Performance of Predictive Process Monitoring. In ICPM Workshops (pp. 153-164). Cham: Springer Nature Switzerland.
+Kim, S., **Comuzzi, M.**, & Di Francescomarino, C. (2023, October). Understanding the Impact of Design Choices on the Performance of Predictive Process Monitoring. In ICPM 2023 Workshops (proceedings published 2024) (pp. 153-164). Cham: Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-56107-8_12)
 
-K. Schaerer and **M. Comuzzi** (2023) "The Quantum Threat to Blockchain: Summary and Timeline Analysis", Quantum Machine Intelligence, 5(1), 1-12. 
+K. Schaerer and **M. Comuzzi** (2023) "The Quantum Threat to Blockchain: Summary and Timeline Analysis", Quantum Machine Intelligence, 5(1), Article 19. [DOI](https://doi.org/10.1007/s42484-023-00105-4)
 
 J. Ko and **M. Comuzzi** (2023) "A Systematic Review of Anomaly Detection for Business Process Event Logs", Business & Information Systems Engineering, 65(4), 441-462.
 
@@ -80,7 +96,7 @@ S. Lee, X. Lu, **M. Comuzzi**, and H.A. Reijers (2023) "Measuring the Stability 
 
 Yessenbayev, O., **Comuzzi, M.**, Meroni, G., & Nguyen, D. C. D. (2023, November). A Middleware for Hybrid Blockchain Applications: Towards Fast, Affordable, and Accountable Integration. In International Conference on Service-Oriented Computing (pp. 307-322).
 
-#### 2022
+### 2022
 
 J. Kim, **M. Comuzzi**, M. Dumas, F.M. Maggi, and I. Teinemaa (2022) "Encoding Resource Experience for Predictive Process Monitoring," Decision Support Systems, 153: 113669.
 
@@ -94,11 +110,15 @@ B. Tama and **M. Comuzzi** (2022) "Leveraging a Heterogeneous Ensemble Learning 
 
 S. Lee, **M. Comuzzi**, N. Kwon (2022) "Exploring the suitability of rule-based classification to provide interpretability in outcome-based process predictive monitoring" Algorithms - Special issue on Algorithms for Machine Learning and Pattern Recognition Tasks, 15(6):187.
 
-Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process predictive monitoring. In ICPM Workshops (pp. 242-254). Cham: Springer Nature Switzerland.
+Kwon, N., and **Comuzzi, M.** (2022). Genetic algorithms for AutoML in process predictive monitoring. In ICPM 2022 Workshops (proceedings published 2023) (pp. 242-254). Cham: Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-27815-0_18)
 
-G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) "Supporting Impact Analysis of Process-Aware Information System Updates Using Digital Twins of Organizations" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 158-176.
+G. Park, M. Comuzzi, and van der Aalst, W.M.P. (2022) "Analyzing Process-Aware Information System Updates Using Digital Twins of Organizations" Proc. 16th Int. Conf. on Research Challenges in Information Science (RCIS), pp. 159-176. [DOI](https://doi.org/10.1007/978-3-031-05760-1_10)
 
-#### 2021
+### 2021
+
+**M. Comuzzi**, C. Cappiello and G. Meroni (2021) "On the Need for Data Quality Assessment in Blockchains", IEEE Internet Computing, 25(3): 71-78. [DOI](https://doi.org/10.1109/mic.2020.3030978)
+
+J. Ko and **M. Comuzzi** (2021) "Detecting anomalies in business process event logs using statistical leverage", Information Sciences, 549, 53-67. [DOI](https://doi.org/10.1016/j.ins.2020.11.017)
 
 J. Kim and **M. Comuzzi** (2021) "Stability metrics for enhancing the evaluation of outcome-based business process predictive monitoring," IEEE Access, 9: 133461-133471.
 
@@ -108,23 +128,19 @@ J. Kim and **M. Comuzzi** (2021) "A diagnostic framework for imbalanced classifi
 
 Daniel Beverungen, Joos C. A. M. Buijs, Jörg Becker, Claudio Di Ciccio*, Wil M. P. van der Aalst, Christian Bartelheimer, Jan vom Brocke, **M. Comuzzi**, Karsten Kraume, Henrik Leopold, Martin Matzner, Jan Mendling, Nadine Ogonek, Till Post, Manuel Resinas, Kate Revoredo, Adela del-Río-Ortega, Marcello La Rosa, Flávia Maria Santoro, Andreas Solti, Minseok Song, Armin Stein, Matthias Stierle, Verena Wolf: (2021) "Seven Paradoxes of Business Process Management in a Hyper-Connected World", Business & Information Systems Engineering, 63(2), pp. 145-156 [SCIE L2, L1, L4] {25,33,67}.
 
-S. Lee, **M. Comuzzi**, and X. Lu (2021) "Continuous performance evaluation for business process outcome monitoring," Proc. 2nd Int. Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2021 
+S. Lee, **M. Comuzzi**, and X. Lu (2021) "Continuous performance evaluation for business process outcome monitoring," Proc. 2nd Int. Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2021, Process Mining Workshops (published 2022), pp. 237-249. [DOI](https://doi.org/10.1007/978-3-030-98581-3_18)
 
 **M. Comuzzi**, C, Cappiello, and G. Meroni (2021) "An empirical evaluation of smart contract-based data quality assessment in Ethereum", Proc.  Blockchain Forum 2021 held in conjunction with BPM 2021, pp. 51-66. **Best Paper Award**
 
 
 
-### Older articles
-
-J. Ko and **M. Comuzzi** (2020) "Detecting anomalies in business process event logs using statistical leverage", Information Sciences, 549, 53-67.
-
-**M. Comuzzi**, C. Cappiello and G. Meroni (2020) "On the Need for Data Quality Assessment in Blockchains", IEEE Internet Computing, 25(3): 71-78.
+## Older articles
 
 B. Tama, **M. Comuzzi** and J. Ko (2020) "An empirical investigation of different classifiers, encoding and ensemble schemes for next event prediction using business process event logs", ACM Transactions on Intelligent Systems and Technology, 11(6):68.
 
 M. Vargas and **M. Comuzzi** (2020) "A multi-dimensional model of Enterprise Resource Planning Critical Success Factors", Enterprise Information Systems, 14(1), 38-57.
 
-J. Ko and **M. Comuzzi** (2020) "Online anomaly detection using statistical leverage for streaming business process events", 1st Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2020 
+J. Ko and **M. Comuzzi** (2020) "Online anomaly detection using statistical leverage for streaming business process events", 1st Workshop on Streaming Analytics for Process Mining (SA4PM) held in conjunction with ICPM 2020, Process Mining Workshops (published 2021), pp. 193-205. [DOI](https://doi.org/10.1007/978-3-030-72693-5_15)
 
 J. Ko, J. Lee, and **M. Comuzzi** (2020) "AIR-BAGEL: An Interactive Root cause-Based Anomaly Generator for Event Logs", 2nd Int. Conf. on Process Mining (ICPM) - Demonstration Track
 
@@ -148,7 +164,7 @@ M. Parhizkar and M. Comuzzi* (2017) "Impact analysis of ERP post-implementation 
 
 M. Comuzzi* and A. Patel (2016) "How Organisations Leverage Big Data: A Maturity Model", Industrial Management & Data Systems, vol. 116, no. 8, 1468-1492.
 
-M. Rangiha, M. Comuzzi* (2016) "A framework to capture and reuse process knowledge in business process design and execution using social tagging", Business Process Management Journal, vol. 22, no. 4, 835-859.
+M. Rangiha, M. Comuzzi*, and B. Karakostas (2016) "A framework to capture and reuse process knowledge in business process design and execution using social tagging", Business Process Management Journal, vol. 22, no. 4, 835-859. [DOI](https://doi.org/10.1108/bpmj-06-2015-0080)
 
 M. Comuzzi* (2017) "Alignment of Process Compliance and Monitoring Requirements in Dynamic Business Collaborations", Enterprise Information Systems, 11(6), 884-908.
 
@@ -160,7 +176,7 @@ P. Van Gorp, M. Comuzzi, A. Jahnen, U. Kaymak and B. Middleton (2014) "An Open P
 
 P. Van Gorp and M. Comuzzi (2014) "Lifelong Personal Health Data and Application Software via Virtual Machines in the Cloud", IEEE Journal of Biomedical and Health Informatics, 18(1), 36-45.
 
-K. Kritikos, B. Pernici, P. Plebani, C. Cappiello, M. Comuzzi, S. Benbernou, I. Brandic, A. Kertesz, M. Parkin, and M. Carro (2013) "A Survey on Service Quality Description", ACM Computing Surveys, vol. 46, no.1.
+K. Kritikos, B. Pernici, P. Plebani, C. Cappiello, M. Comuzzi, S. Benbernou, I. Brandic, A. Kertesz, M. Parkin, and M. Carro (2013) "A Survey on Service Quality Description", ACM Computing Surveys, 46(1), Article 1 (58 pages). [DOI](https://doi.org/10.1145/2522968.2522969)
 
 M. Comuzzi*, I. Vanderfeesten, and T. Wang (2013) "Optimized Cross-Organizational Business Process Monitoring: Design and Enactment", Information Sciences, vol. 244, pp. 107-118.
 
@@ -176,31 +192,31 @@ M. Comuzzi*, C. Francalanci, and P. Giacomazzi (2008) "Pricing the quality of di
 
 D. Ardagna, M. Comuzzi, E. Mussi, B. Pernici, and P. Plebani (2007) "PAWS: A framework for executing Adaptive Web-service Processes" IEEE Software, 24(6), pp. 39-46. 
 
-M. Comuzzi, J. Ko and S. Lee (2019) "Predicting outpatient process flows to minimise the cost of handling returning patients: A case study", Workshop on Process-Oriented Data Science for Healthcare (PODS4H 2019) held in conjunction with BPM 2019 (accepted)
+M. Comuzzi, J. Ko and S. Lee (2019) "Predicting outpatient process flows to minimise the cost of handling returning patients: A case study", Workshop on Process-Oriented Data Science for Healthcare (PODS4H 2019) held in conjunction with BPM 2019, Business Process Management Workshops, pp. 557-569. [DOI](https://doi.org/10.1007/978-3-030-37453-2_45)
 
-C. Cappiello, M. Comuzzi, F. Daniel and G. Meroni (2019) "Data quality control in blockchain applications", Blockchain Forum 2019 held in conjunction with BPM 2019 (accepted)
+C. Cappiello, M. Comuzzi, F. Daniel and G. Meroni (2019) "Data quality control in blockchain applications", Blockchain Forum 2019 held in conjunction with BPM 2019, pp. 166-181. [DOI](https://doi.org/10.1007/978-3-030-30429-4_12)
 
-M. Comuzzi, A. E. Marquez-Chamorro, and M. Resinas (2018) "A Hybrid Reliability Metric for SLA Predictive Monitoring", 34th ACM Symposium on Applied Computing (accepted)
+M. Comuzzi, A. E. Marquez-Chamorro, and M. Resinas (2019) "A Hybrid Reliability Metric for SLA Predictive Monitoring", 34th ACM Symposium on Applied Computing, pp. 32-39. [DOI](https://doi.org/10.1145/3297280.3297285)
 
-M. Comuzzi, A. Marquez-Chamorro and M. Resinas (2018) "Does your accurate process predictive monitoring model give reliable predictions?" 1st ICSOC Workshop on AI and Data Mining for Services.
+M. Comuzzi, A. Marquez-Chamorro and M. Resinas (2018) "Does your accurate process predictive monitoring model give reliable predictions?" 1st ICSOC Workshop on AI and Data Mining for Services (2018), Service-Oriented Computing – ICSOC 2018 Workshops (published 2019), pp. 367-373. [DOI](https://doi.org/10.1007/978-3-030-17642-6_30)
 
-H. Nguyen** and M. Comuzzi (2018) "Event log reconstruction using autoencoders", 1st ICSOC Workshop on AI and Data Mining for Services.
+H. Nguyen** and M. Comuzzi (2018) "Event log reconstruction using autoencoders", 1st ICSOC Workshop on AI and Data Mining for Services (2018), Service-Oriented Computing – ICSOC 2018 Workshops (published 2019), pp. 335-350. [DOI](https://doi.org/10.1007/978-3-030-17642-6_28)
 
 M. Comuzzi, E. Unurjargal, and C.H. Lim (2018) "Towards a design space for blockchain-based system reengineering", 1st Workshop on Blockchains for Inter-Organizational Collaboration (BIOC’18), in conjunction with CAiSE 2018, pp. 138-143
 
-M. Comuzzi (2017) "Optimal paths in business processes: framework and applications", 1st Workshop on Business Process Innovations with Artificial Intelligence, in conjunction with BPM 2017, pp. 107-123.
+M. Comuzzi (2017) "Optimal paths in business processes: framework and applications", 1st Workshop on Business Process Innovations with Artificial Intelligence, in conjunction with BPM 2017 (proceedings published 2018), pp. 107-123. [DOI](https://doi.org/10.1007/978-3-319-74030-0_7)
 
 J. Ko** and M. Comuzzi (2017) "Fuzzy Analytic Network Process for evaluating ERP post-implementation alternatives", 2017 IEEE International Conference on Fuzzy Systems - FUZZ-IEEE 2017, pp. 1-6.
 
-Y. Djenouri, Z. Habbas, D. Djenouri and M. Comuzzi (2017) "Diversification Heuristics in Bees Swarm Optimization for Association Rules Mining", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques **Best paper award**
+Y. Djenouri, Z. Habbas, D. Djenouri and M. Comuzzi (2017) "Diversification Heuristics in Bees Swarm Optimization for Association Rules Mining", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques, pp. 68-78. **Best paper award** [DOI](https://doi.org/10.1007/978-3-319-67274-8_7)
 
-Y. Djenouri and M. Comuzzi (2017) "GA-Apriori: combining Apriori Heuristic and Genetic Algorithms for Solving the Frequent Itemsets Mining Problem", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques (accepted)
+Y. Djenouri and M. Comuzzi (2017) "GA-Apriori: combining Apriori Heuristic and Genetic Algorithms for Solving the Frequent Itemsets Mining Problem", 6th PAKDD Workshop on Biologically Inspired Data Mining Techniques, pp. 138-148. [DOI](https://doi.org/10.1007/978-3-319-67274-8_13)
 
-Y. Djenouri, M. Comuzzi, D. Djenouri (2017) "SS-FIM: Single Scan for Frequent Itemsets Mining in Transactional Databases", Proc. 2017 Pacific-Asia Conference on Knowledge and Data Mining - PAKDD 2017 (accepted)
+Y. Djenouri, M. Comuzzi, D. Djenouri (2017) "SS-FIM: Single Scan for Frequent Itemsets Mining in Transactional Databases", Proc. 2017 Pacific-Asia Conference on Knowledge and Data Mining - PAKDD 2017, pp. 644-654. [DOI](https://doi.org/10.1007/978-3-319-57529-2_50)
 
-Y. Djenouri, A. Bendjoudi, D. Djenouri and M. Comuzzi (2017) "GPU-based bio-inspired model for solving association rule mining problem", Proc. 25th Euromicro Int. Conf. on Parallel, Distributed and Network-based Processing - PDP 2017 (accepted).
+Y. Djenouri, A. Bendjoudi, D. Djenouri and M. Comuzzi (2017) "GPU-based bio-inspired model for solving association rules mining problem", Proc. 25th Euromicro Int. Conf. on Parallel, Distributed and Network-based Processing - PDP 2017, pp. 262-269. [DOI](https://doi.org/10.1109/pdp.2017.16)
 
-M. Parhizkar and M. Comuzzi (2016) "A framework for impact analysis of post-implementation Enterprise Resource Planning modifications", Proc. SAI Computing Conference 2016 (accepted for publication)
+M. Parhizkar and M. Comuzzi (2016) "A framework for impact analysis of post-implementation Enterprise Resource Planning modifications", Proc. SAI Computing Conference 2016, pp. 706-714. [DOI](https://doi.org/10.1109/sai.2016.7556059)
 
 M. Parhizkar and M. Comuzzi (2015) "An AHP-Based analysis of the cost of ERP Modification" Proc. 3rd International Conference on Enterprise Systems, pp. 200 -205.
 
@@ -210,9 +226,9 @@ M. Comuzzi (2014) "Aligning Monitoring and Compliance Requirements in Evolving B
 
 M. Comuzzi and R.I. Rafael Martinez (2014) "Customized Infrastructures for Monitoring Business Processes," Proc. 8th IEEE Symposium on Service-Oriented System Engineering (SOSE), Oxford, UK, pp. 122-127.
 
-E. Luftenegger, M. Comuzzi, and P. Grefen (2013) "The Service Dominant Ecosystem: Mapping a Service Dominant Strategy to a Product-Service Ecosystem," Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany.
+E. Luftenegger, M. Comuzzi, and P. Grefen (2013) "The Service Dominant Ecosystem: Mapping a Service Dominant Strategy to a Product-Service Ecosystem," Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany, pp. 22-30. [DOI](https://doi.org/10.1007/978-3-642-40543-3_3)
 
-M. Comuzzi, G. Jacobs, and P. Grefen (2013) "Understanding SLA elements in Cloud Computing," Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany.
+M. Comuzzi, G. Jacobs, and P. Grefen (2013) "Understanding SLA elements in Cloud Computing," Proc. 14th IFIP Working Conference on Virtual Enterprises (PRO-VE), Dresden, Germany, pp. 385-392. [DOI](https://doi.org/10.1007/978-3-642-40543-3_41)
 
 P. Van Gorp, M. Comuzzi, A Fiahlo, and U. Kaymak (2012) Addressing Health Information Privacy with a novel cloud-based PHR system architecture. Proc. 2012 IEEE Int. Conf. on Systems, Man, and Cybernetics (SMC), pp. 1841-1846.
 
@@ -226,15 +242,15 @@ M. Comuzzi, J. Vonk, and P. Grefen (2010) Continuous Monitoring in Evolving Busi
 
 M. Comuzzi and G. Spanoudakis (2010) Dynamic set-up of monitoring infrastructures for Service-Based systems. Proc. of the 2010 ACM Symposium on Applied Computing (SAC 2010), pp. 2414-2421.
 
-M. Comuzzi, K. Kritikos, and P.Plebani "A Semantic based framework for supporting negotiation in Service Oriented Architectures" Proc. 11th IEEE Conf. on Commerce and Enterprise Computing (CEC 2009), Vienna, Austria.
+M. Comuzzi, K. Kritikos, and P. Plebani (2009) "A Semantic based framework for supporting negotiation in Service Oriented Architectures" Proc. 11th IEEE Conf. on Commerce and Enterprise Computing (CEC 2009), Vienna, Austria, pp. 137-145. [DOI](https://doi.org/10.1109/cec.2009.17)
 
-M. Comuzzi, C. Kotsokalis, G. Spanoudakis, and R. Yahyapour (2009) “Establishing and Monitoring SLAs in Complex Service-Based Systems” Proc. 7th IEEE Int. Conf. on Web Services (ICWS'09) - Applications and Industry Track, Los Angeles (CA), USA.
+M. Comuzzi, C. Kotsokalis, G. Spanoudakis, and R. Yahyapour (2009) “Establishing and Monitoring SLAs in Complex Service-Based Systems” Proc. 7th IEEE Int. Conf. on Web Services (ICWS'09) - Applications and Industry Track, Los Angeles (CA), USA, pp. 783-790. [DOI](https://doi.org/10.1109/icws.2009.47)
 
 C. Cappiello and M. Comuzzi (2009) “A utility-based model to define the optimal data quality level in IT service offerings” Proc. 17th European Conference on Information Systems (ECIS 2009), Verona, Italy.
 
-M. Comuzzi and G. Spanoudakis (2009) "A Framework for Hierarchical and recursive Monitoring of Service Based Systems" Proc. 4th Int. Conf. on Internet and Web Applications and Services, Venice, Italy.
+M. Comuzzi and G. Spanoudakis (2009) "A Framework for Hierarchical and recursive Monitoring of Service Based Systems" Proc. 4th Int. Conf. on Internet and Web Applications and Services, Venice, Italy, pp. 383-388. [DOI](https://doi.org/10.1109/iciw.2009.63)
 
-M. Comuzzi, K. Kritikos, and P. Plebani (2008) "Semantic aware Service Quality Negotation". Proc. ServiceWave Conference 2008, Madrid, Spain (LNCS 5377)
+M. Comuzzi, K. Kritikos, and P. Plebani (2008) "Semantic-Aware Service Quality Negotiation". Proc. ServiceWave Conference 2008, Madrid, Spain (LNCS 5377), pp. 312-323. [DOI](https://doi.org/10.1007/978-3-540-89897-9_27)
 
 C. Cappiello and M. Comuzzi (2007) Efficient allocation of quality improvements efforts to support the definition of data service offerings, Proc. 12th Int. Conference on Information Quality, ICIQ'07, Cambridge (MA), USA.
 
